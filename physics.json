@@ -1,0 +1,4640 @@
+{
+  "id": "physics",
+  "name": "AQA GCSE Physics (8463)",
+  "quizzes": [
+    {
+      "id": "physics-1-1",
+      "title": "1.1 Energy Stores and Systems",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "A ball is held above the ground. Which energy store does it have?",
+          "options": [
+            "Kinetic",
+            "Gravitational potential",
+            "Chemical",
+            "Thermal"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which energy store does a moving car have?",
+          "options": [
+            "Elastic potential",
+            "Kinetic",
+            "Nuclear",
+            "Magnetic"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A stretched elastic band mainly has energy in which store?",
+          "options": [
+            "Elastic potential",
+            "Gravitational potential",
+            "Kinetic",
+            "Chemical"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A 'system' in physics is best described as?",
+          "options": [
+            "Only a single object",
+            "An object or group of objects being studied",
+            "Only a force",
+            "A type of energy"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Energy can be created as long as a system is closed.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "When a system changes, energy is transferred between stores but the total energy stays the same.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A battery stores energy chemically.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the energy store associated with the temperature of an object.",
+          "acceptedAnswers": [
+            "thermal",
+            "internal energy",
+            "thermal energy store"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the law that states energy cannot be created or destroyed, only transferred.",
+          "acceptedAnswers": [
+            "conservation of energy",
+            "law of conservation of energy"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Give one example of an energy store other than kinetic or gravitational potential.",
+          "acceptedAnswers": [
+            "chemical",
+            "elastic potential",
+            "thermal",
+            "nuclear"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-1-2",
+      "title": "1.2 Changes in Energy",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation for kinetic energy is:",
+          "options": [
+            "KE = mgh",
+            "KE = 1/2 m v^2",
+            "KE = 1/2 k e^2",
+            "KE = m c ΔT"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A 2 kg object moves at 3 m/s. What is its kinetic energy?",
+          "options": [
+            "6 J",
+            "9 J",
+            "18 J",
+            "36 J"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation for gravitational potential energy is:",
+          "options": [
+            "GPE = m g h",
+            "GPE = 1/2 m v^2",
+            "GPE = F e",
+            "GPE = m c ΔT"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A 5 kg mass is raised 4 m. Taking g = 10 N/kg, what GPE is gained?",
+          "options": [
+            "20 J",
+            "200 J",
+            "50 J",
+            "9 J"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "The elastic potential energy equation is EPE = 1/2 k e^2, where e is extension.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Doubling the speed of an object doubles its kinetic energy.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Gravitational potential energy depends on the mass, gravitational field strength, and height of an object.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What quantity, symbol g, represents the gravitational field strength near Earth's surface (in N/kg)?",
+          "acceptedAnswers": [
+            "10",
+            "9.8",
+            "approximately 10 N/kg",
+            "10 N/kg"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the unit of energy in the SI system?",
+          "acceptedAnswers": [
+            "joule",
+            "joules",
+            "J"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "State the equation linking elastic potential energy, spring constant (k) and extension (e).",
+          "acceptedAnswers": [
+            "EPE = 1/2 k e^2",
+            "elastic potential energy = 0.5 x spring constant x extension squared",
+            "1/2ke^2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-1-3",
+      "title": "1.3 Energy Changes in Systems and Specific Heat Capacity",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation linking change in thermal energy, mass, specific heat capacity and temperature change is:",
+          "options": [
+            "ΔE = m c ΔT",
+            "ΔE = m g h",
+            "ΔE = 1/2 m v^2",
+            "ΔE = P t"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Specific heat capacity is defined as the energy required to:",
+          "options": [
+            "Melt 1 kg of a substance",
+            "Raise the temperature of 1 kg of a substance by 1°C",
+            "Raise the temperature of 1 g of a substance by 10°C",
+            "Boil 1 kg of a substance"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A material with a HIGH specific heat capacity will:",
+          "options": [
+            "Heat up and cool down quickly",
+            "Heat up and cool down slowly",
+            "Not absorb any thermal energy",
+            "Only absorb energy when boiling"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the unit of specific heat capacity?",
+          "options": [
+            "J/kg",
+            "J/°C",
+            "J/(kg°C)",
+            "J"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Water has a relatively high specific heat capacity compared to most metals.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Required practical: an investigation into specific heat capacity links a decrease in one energy store to an increase in thermal energy.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Specific heat capacity depends on the shape of the object.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "2 kg of water is heated, absorbing 8400 J and rising in temperature by 1°C. Calculate the specific heat capacity.",
+          "acceptedAnswers": [
+            "4200",
+            "4200 J/kg degC",
+            "4200 J/(kg C)"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the required practical apparatus commonly used to heat a metal block in this experiment.",
+          "acceptedAnswers": [
+            "immersion heater",
+            "electric heater",
+            "heater"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What must be measured before and after heating to calculate the energy transferred electrically in this practical?",
+          "acceptedAnswers": [
+            "temperature",
+            "temperature change",
+            "current and voltage/potential difference and time"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-1-4",
+      "title": "1.4 Power",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Power is defined as:",
+          "options": [
+            "The total energy transferred",
+            "The rate at which energy is transferred",
+            "The force applied to an object",
+            "The speed of an object"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation for power is:",
+          "options": [
+            "P = E / t",
+            "P = m v",
+            "P = F / A",
+            "P = m c ΔT"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the unit of power?",
+          "options": [
+            "Joule",
+            "Newton",
+            "Watt",
+            "Pascal"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A motor transfers 600 J of energy in 3 seconds. What is its power?",
+          "options": [
+            "200 W",
+            "1800 W",
+            "600 W",
+            "3 W"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "1 watt is equal to 1 joule transferred per second.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A more powerful machine always uses less total energy than a less powerful one.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Power can also be calculated as the rate of doing work.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A kettle transfers 24000 J of energy in 12 seconds. What is its power in watts?",
+          "acceptedAnswers": [
+            "2000",
+            "2000 W",
+            "2000 watts"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "State the unit symbol for power.",
+          "acceptedAnswers": [
+            "W",
+            "watt",
+            "watts"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "If a lamp has a power of 60 W, how much energy does it transfer in 10 seconds?",
+          "acceptedAnswers": [
+            "600 J",
+            "600",
+            "600 joules"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-1-5",
+      "title": "1.5 Energy Transfers in a System",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Which method of thermal energy transfer requires a solid medium and involves particle vibrations?",
+          "options": [
+            "Convection",
+            "Conduction",
+            "Radiation",
+            "Evaporation"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Convection currents occur mainly in:",
+          "options": [
+            "Solids only",
+            "Liquids and gases",
+            "Vacuums only",
+            "Metals only"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A vacuum flask reduces energy transfer mainly by:",
+          "options": [
+            "Increasing conduction",
+            "Reducing convection and radiation losses",
+            "Increasing convection",
+            "Adding a heater"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which material would be the best thermal insulator for a house wall cavity?",
+          "options": [
+            "Copper",
+            "Air/foam insulation",
+            "Steel",
+            "Aluminium"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Thermal energy is transferred from a region of higher temperature to a region of lower temperature.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Infrared radiation can transfer thermal energy through a vacuum.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Metals are generally poor conductors of thermal energy.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the process by which energy is transferred through a vacuum via electromagnetic waves.",
+          "acceptedAnswers": [
+            "radiation",
+            "infrared radiation",
+            "thermal radiation"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name one everyday method used to reduce unwanted energy transfer from a house (e.g. loft insulation, double glazing).",
+          "acceptedAnswers": [
+            "loft insulation",
+            "cavity wall insulation",
+            "double glazing",
+            "draught excluders"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What term describes the thickness of an insulating material and its resistance to heat flow, often quoted for building materials?",
+          "acceptedAnswers": [
+            "u-value",
+            "thermal conductivity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-1-6",
+      "title": "1.6 Efficiency",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation for efficiency is:",
+          "options": [
+            "useful output energy / total input energy",
+            "total input energy / useful output energy",
+            "useful output energy x total input energy",
+            "total input energy - useful output energy"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A machine has 100 J input and 80 J useful output. What is its efficiency?",
+          "options": [
+            "20%",
+            "80%",
+            "100%",
+            "0.2%"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Efficiency can never be:",
+          "options": [
+            "Below 100%",
+            "Above 1 (100%)",
+            "A percentage",
+            "A decimal"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which of these would NOT increase the efficiency of a machine?",
+          "options": [
+            "Lubricating moving parts",
+            "Adding insulation to reduce heat loss",
+            "Increasing friction between parts",
+            "Streamlining shape to reduce drag"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Efficiency can be given as a decimal or a percentage.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "No machine can be 100% efficient in practice, because some energy is always wasted, usually as heat.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Wasted energy is destroyed rather than transferred to the surroundings.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A motor has an efficiency of 0.75 and a total input energy of 400 J. Calculate the useful output energy.",
+          "acceptedAnswers": [
+            "300 J",
+            "300",
+            "300 joules"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Give one way of reducing unwanted energy transfers due to friction in machinery.",
+          "acceptedAnswers": [
+            "lubrication",
+            "oiling",
+            "using lubricant",
+            "reduce friction"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "State the HT equation linking efficiency to useful power output and total power input.",
+          "acceptedAnswers": [
+            "efficiency = useful power output / total power input",
+            "efficiency = useful power output over total power input"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-1-7",
+      "title": "1.7 National and Global Energy Resources",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Which of these is a renewable energy resource?",
+          "options": [
+            "Coal",
+            "Natural gas",
+            "Wind",
+            "Oil"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which of these is a non-renewable (fossil fuel) energy resource?",
+          "options": [
+            "Solar",
+            "Coal",
+            "Wind",
+            "Tidal"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Nuclear power is generally classified as:",
+          "options": [
+            "Renewable",
+            "Non-renewable",
+            "Biofuel",
+            "Geothermal"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which is a major environmental concern of burning fossil fuels?",
+          "options": [
+            "Reduces biodiversity of oceans only",
+            "Releases carbon dioxide, contributing to climate change",
+            "Produces no waste at all",
+            "Has no impact on air quality"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Renewable energy resources will not run out on a human timescale.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Wind power is reliable and available at a constant rate every single day.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Solar cells generate electricity directly from sunlight using the photovoltaic effect.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name one renewable energy resource used to generate electricity.",
+          "acceptedAnswers": [
+            "wind",
+            "solar",
+            "hydroelectric",
+            "tidal"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name one non-renewable fossil fuel used to generate electricity.",
+          "acceptedAnswers": [
+            "coal",
+            "oil",
+            "natural gas",
+            "gas"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Give one advantage of using renewable energy resources over fossil fuels.",
+          "acceptedAnswers": [
+            "no carbon dioxide emissions",
+            "does not run out",
+            "reduces air pollution",
+            "sustainable"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-2-1",
+      "title": "2.1 Circuit Diagrams, Current and Charge",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What is electric current?",
+          "options": [
+            "The energy stored in a battery",
+            "The rate of flow of electrical charge",
+            "The resistance of a component",
+            "The potential difference across a wire"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the unit of electric current?",
+          "options": [
+            "Volt",
+            "Ohm",
+            "Ampere",
+            "Coulomb"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation linking charge, current and time is:",
+          "options": [
+            "Q = I t",
+            "Q = I / t",
+            "Q = I + t",
+            "Q = I - t"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which circuit symbol represents a fixed resistor?",
+          "options": [
+            "A circle with a cross",
+            "A rectangle (or zigzag line)",
+            "Two parallel lines of different lengths",
+            "An arrow inside a circle"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A current has the same value at any point in a single closed loop (series circuit).",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Electric charge is measured in amperes.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "For charge to flow through a component, there must be a potential difference across the component.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A current of 2 A flows for 5 seconds. Calculate the charge that flows.",
+          "acceptedAnswers": [
+            "10 C",
+            "10",
+            "10 coulombs"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the unit of electrical charge?",
+          "acceptedAnswers": [
+            "coulomb",
+            "coulombs",
+            "C"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the circuit component used to measure current, connected in series.",
+          "acceptedAnswers": [
+            "ammeter",
+            "an ammeter"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-2-2",
+      "title": "2.2 Current, Potential Difference and Resistance",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation linking potential difference, current and resistance is:",
+          "options": [
+            "V = I R",
+            "V = I / R",
+            "V = R / I",
+            "V = I + R"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the unit of resistance?",
+          "options": [
+            "Volt",
+            "Ohm",
+            "Ampere",
+            "Watt"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A component has a resistance of 5 Ω and a current of 2 A flows through it. What is the potential difference?",
+          "options": [
+            "2.5 V",
+            "7 V",
+            "10 V",
+            "0.4 V"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the unit of potential difference (voltage)?",
+          "options": [
+            "Ampere",
+            "Ohm",
+            "Volt",
+            "Joule"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Increasing the resistance of a circuit, at constant potential difference, decreases the current.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Potential difference is measured using an ammeter connected in series.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Potential difference is measured using a voltmeter connected in parallel across a component.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A potential difference of 12 V drives a current of 3 A through a resistor. Calculate its resistance.",
+          "acceptedAnswers": [
+            "4",
+            "4 ohms",
+            "4 Ω"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the required practical that investigates factors affecting the resistance of electrical circuits, including wire length.",
+          "acceptedAnswers": [
+            "resistance practical",
+            "investigating resistance of a wire",
+            "required practical 3"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What happens to the resistance of a wire as its length increases (at constant thickness)?",
+          "acceptedAnswers": [
+            "it increases",
+            "resistance increases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-2-3",
+      "title": "2.3 Resistors and I-V Characteristics",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "For an ohmic conductor at constant temperature, the current is:",
+          "options": [
+            "Inversely proportional to potential difference",
+            "Directly proportional to potential difference",
+            "Unrelated to potential difference",
+            "Equal to potential difference squared"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What happens to the resistance of a filament lamp as its temperature increases?",
+          "options": [
+            "It decreases",
+            "It increases",
+            "It stays exactly the same",
+            "It becomes zero"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A diode allows current to flow:",
+          "options": [
+            "In both directions equally",
+            "In one direction only",
+            "Only when cooled",
+            "Only in a vacuum"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "On an I-V graph, an ohmic conductor produces a graph that is:",
+          "options": [
+            "A curve through the origin",
+            "A straight line through the origin",
+            "A horizontal line",
+            "A straight line not through the origin"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A thermistor's resistance decreases as temperature increases.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A Light Dependent Resistor (LDR) has decreasing resistance with increasing light intensity.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The I-V graph for a diode is a straight line through the origin, just like a resistor.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name a component whose resistance changes significantly with temperature.",
+          "acceptedAnswers": [
+            "thermistor",
+            "a thermistor"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name a component whose resistance changes significantly with light intensity.",
+          "acceptedAnswers": [
+            "LDR",
+            "light dependent resistor"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the law that states current is directly proportional to potential difference for a resistor at constant temperature.",
+          "acceptedAnswers": [
+            "Ohm's law",
+            "Ohms law"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-2-4",
+      "title": "2.4 Series and Parallel Circuits",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "In a series circuit, the total resistance is found by:",
+          "options": [
+            "Adding the resistances together",
+            "Multiplying the resistances",
+            "Taking the reciprocal of the sum of reciprocals",
+            "Subtracting the resistances"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In a series circuit with two lamps, if one lamp blows (breaks), what happens to the other?",
+          "options": [
+            "It stays lit as normal",
+            "It goes out too",
+            "It gets brighter",
+            "It has no effect"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In a parallel circuit, the potential difference across each branch is:",
+          "options": [
+            "Different for each branch",
+            "The same across each branch",
+            "Always zero",
+            "Only measurable in series"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In a parallel circuit, adding another resistor branch causes total resistance to:",
+          "options": [
+            "Increase",
+            "Decrease",
+            "Stay the same",
+            "Become infinite"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "In a series circuit, the current is the same at every point in the circuit.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "In a parallel circuit, the total current from the source is the sum of the currents through each branch.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Household wiring uses series circuits so appliances can be switched independently.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Two resistors of 4 Ω and 6 Ω are connected in series. What is the total resistance?",
+          "acceptedAnswers": [
+            "10",
+            "10 ohms",
+            "10 Ω"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "In a series circuit, how is the total potential difference of the supply shared between components?",
+          "acceptedAnswers": [
+            "shared between them",
+            "split between components",
+            "shared/divided across components"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Why are household circuits wired in parallel rather than series?",
+          "acceptedAnswers": [
+            "so appliances work independently",
+            "so each appliance gets full/mains voltage",
+            "allows devices to be switched on/off independently"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-2-5",
+      "title": "2.5 Alternating Current and Mains Electricity",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "UK mains electricity supply has a frequency of approximately:",
+          "options": [
+            "25 Hz",
+            "50 Hz",
+            "100 Hz",
+            "230 Hz"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "UK mains electricity has a voltage of approximately:",
+          "options": [
+            "12 V",
+            "110 V",
+            "230 V",
+            "400 V"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In a three-pin plug, which wire is normally coloured green and yellow?",
+          "options": [
+            "Live",
+            "Neutral",
+            "Earth",
+            "Fuse wire"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which wire in a UK plug carries the alternating potential difference from the supply?",
+          "options": [
+            "Live",
+            "Neutral",
+            "Earth",
+            "None"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Direct current (dc) flows in one direction only, unlike alternating current (ac) which periodically reverses direction.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Cells and batteries supply alternating current.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "The neutral wire in a UK plug is normally at, or close to, earth potential (0 V).",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the type of current supplied by mains electricity in the UK.",
+          "acceptedAnswers": [
+            "alternating current",
+            "ac"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What safety feature protects a circuit by melting/breaking if current is too high?",
+          "acceptedAnswers": [
+            "fuse",
+            "a fuse"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Which wire in a plug is a safety wire that only carries current if there's a fault?",
+          "acceptedAnswers": [
+            "earth",
+            "earth wire"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-2-6",
+      "title": "2.6 Energy Transfers and Electrical Power",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation linking electrical power, potential difference and current is:",
+          "options": [
+            "P = V I",
+            "P = V / I",
+            "P = I / V",
+            "P = V + I"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation linking electrical power, current and resistance is:",
+          "options": [
+            "P = I R",
+            "P = I^2 R",
+            "P = I / R",
+            "P = R / I"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "An appliance with a potential difference of 230 V and current of 2 A has a power of:",
+          "options": [
+            "115 W",
+            "232 W",
+            "460 W",
+            "4600 W"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation linking energy transferred, power and time is:",
+          "options": [
+            "E = P t",
+            "E = P / t",
+            "E = P + t",
+            "E = P - t"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "The rate at which energy is transferred by an electrical appliance is called its power.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Energy transferred can be calculated using E = Q V, where Q is charge and V is potential difference.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A higher-power appliance always transfers less total energy than a lower-power one over the same time.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A device has a resistance of 10 Ω and a current of 3 A flows through it. Calculate its power.",
+          "acceptedAnswers": [
+            "90 W",
+            "90",
+            "90 watts"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A 1000 W heater runs for 3600 seconds (1 hour). Calculate the energy transferred, in joules.",
+          "acceptedAnswers": [
+            "3600000 J",
+            "3,600,000 J",
+            "3600000",
+            "3.6 million joules"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "State the equation linking energy transferred, charge and potential difference.",
+          "acceptedAnswers": [
+            "E = Q V",
+            "energy transferred = charge x potential difference"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-2-7",
+      "title": "2.7 The National Grid",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The National Grid is used to transfer electrical energy from:",
+          "options": [
+            "Homes to power stations",
+            "Power stations to consumers",
+            "The sun to solar panels",
+            "Batteries to appliances"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A step-up transformer is used to:",
+          "options": [
+            "Decrease the voltage for transmission",
+            "Increase the voltage for efficient transmission",
+            "Convert ac to dc",
+            "Store electrical energy"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A step-down transformer is used to:",
+          "options": [
+            "Increase voltage before homes use it",
+            "Decrease voltage to a safer level for consumers",
+            "Increase current for transmission",
+            "Convert dc to ac"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Why is electricity transmitted at a very high voltage across the National Grid?",
+          "options": [
+            "To increase current and reduce energy losses",
+            "To decrease current and reduce energy losses due to heating in cables",
+            "To make the electricity safer to touch",
+            "To reduce the need for power stations"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Transmitting electricity at high voltage and low current reduces energy losses in the cables.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Transformers only work with direct current (dc), not alternating current (ac).",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "The National Grid connects power stations to consumers via transmission cables and transformers.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the two types of transformer used in the National Grid system.",
+          "acceptedAnswers": [
+            "step-up and step-down transformers",
+            "step up and step down"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Why does transmitting at high current cause greater energy loss in cables?",
+          "acceptedAnswers": [
+            "more heating in the wires due to resistance",
+            "greater heat loss due to higher current causing more resistive heating"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Why is the National Grid considered an efficient way to transfer energy across the country?",
+          "acceptedAnswers": [
+            "it minimises energy losses by using high voltage, low current transmission",
+            "reduces energy wasted as heat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-2-8",
+      "title": "2.8 Static Charge and Electric Fields (Physics Only)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Static charge builds up when two insulating materials are:",
+          "options": [
+            "Connected by a wire",
+            "Rubbed together, transferring electrons",
+            "Placed in water",
+            "Heated gently"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "An object that loses electrons becomes:",
+          "options": [
+            "Negatively charged",
+            "Positively charged",
+            "Neutral",
+            "Magnetic"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Like electrostatic charges (e.g. two positive charges) will:",
+          "options": [
+            "Attract each other",
+            "Repel each other",
+            "Have no effect on each other",
+            "Cancel out completely"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "An electric field around a charged object is strongest:",
+          "options": [
+            "Far from the object",
+            "Close to the object",
+            "Only inside the object",
+            "Only in a vacuum"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "An object becomes negatively charged when it gains electrons.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A charged object creates an electric field that exerts a force on other charges within that field.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Static electricity can only build up on conductors, never on insulators.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the particle transferred between materials during the build-up of static charge.",
+          "acceptedAnswers": [
+            "electron",
+            "electrons"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What can happen when there is a sufficiently large potential difference between a charged object and an earthed conductor nearby?",
+          "acceptedAnswers": [
+            "a spark",
+            "electric spark",
+            "electrical discharge",
+            "a shock"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Opposite electrostatic charges do what to each other?",
+          "acceptedAnswers": [
+            "attract",
+            "attract each other"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-3-1",
+      "title": "3.1 Density",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation for density is:",
+          "options": [
+            "density = mass / volume",
+            "density = volume / mass",
+            "density = mass x volume",
+            "density = mass + volume"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the unit of density in SI units?",
+          "options": [
+            "kg/m",
+            "kg/m^2",
+            "kg/m^3",
+            "N/m^3"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "An object has a mass of 20 kg and volume of 4 m^3. What is its density?",
+          "options": [
+            "5 kg/m^3",
+            "80 kg/m^3",
+            "0.2 kg/m^3",
+            "24 kg/m^3"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Why does an object made of a low-density material float on water?",
+          "options": [
+            "It has more mass than water",
+            "Its density is less than the density of water",
+            "It has no volume",
+            "It contains no particles"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Gases generally have a much lower density than solids.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Density can be calculated using the equation density = volume / mass.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "The required practical for density involves measuring mass and volume of regular and irregular solid objects.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "How is the volume of an irregular solid object typically measured in the density required practical?",
+          "acceptedAnswers": [
+            "water displacement",
+            "displacement method",
+            "using a eureka can/displacement can"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A liquid has a mass of 50 g and a volume of 25 cm^3. Calculate its density.",
+          "acceptedAnswers": [
+            "2 g/cm3",
+            "2",
+            "2 g per cm3"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What piece of equipment is used to measure the mass of an object in the density practical?",
+          "acceptedAnswers": [
+            "balance",
+            "top pan balance",
+            "electronic balance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-3-2",
+      "title": "3.2 Changes of State and Internal Energy",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Internal energy is the sum of:",
+          "options": [
+            "Only the kinetic energies of particles",
+            "Only the potential energies of particles",
+            "The kinetic and potential energies of all particles in a system",
+            "The mass and volume of a system"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "When a substance melts, its state changes from:",
+          "options": [
+            "Solid to gas",
+            "Liquid to solid",
+            "Solid to liquid",
+            "Gas to liquid"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "When a substance is heated and its state changes, the temperature during the change of state:",
+          "options": [
+            "Increases steadily",
+            "Decreases steadily",
+            "Stays constant",
+            "Rises then falls rapidly"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Changes of state are examples of:",
+          "options": [
+            "Chemical changes",
+            "Physical changes",
+            "Nuclear reactions",
+            "Irreversible reactions"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Changes of state are physical changes; the substance recovers its original properties if the change is reversed.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "During a change of state, the arrangement of particles changes but the number and type of particles stays the same, so mass is conserved.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Heating a substance always increases its temperature, even during a change of state.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the change of state when a liquid becomes a gas.",
+          "acceptedAnswers": [
+            "boiling",
+            "evaporation",
+            "vaporisation"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the change of state when a gas becomes a liquid.",
+          "acceptedAnswers": [
+            "condensation",
+            "condensing"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "During melting, what happens to the energy supplied even though temperature doesn't rise?",
+          "acceptedAnswers": [
+            "it breaks bonds between particles",
+            "used to overcome forces between particles",
+            "goes into potential energy, not kinetic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-3-3",
+      "title": "3.3 Specific Heat Capacity",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Specific heat capacity tells us:",
+          "options": [
+            "How much a substance weighs",
+            "The energy needed to raise the temperature of 1 kg of a substance by 1°C",
+            "The melting point of a substance",
+            "The density of a substance"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation for change in thermal energy is:",
+          "options": [
+            "ΔE = m c ΔT",
+            "ΔE = m L",
+            "ΔE = m g h",
+            "ΔE = P t"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A substance with a low specific heat capacity will change temperature:",
+          "options": [
+            "Slowly for a given energy input",
+            "Quickly for a given energy input",
+            "Not at all",
+            "Only when it changes state"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "4 kg of a substance with specific heat capacity 500 J/(kg°C) is heated, raising temperature by 2°C. How much energy was transferred?",
+          "options": [
+            "1000 J",
+            "2000 J",
+            "4000 J",
+            "8000 J"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Water's high specific heat capacity makes it useful as a coolant in car engines.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Specific heat capacity has units of J/(kg °C).",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A substance with high specific heat capacity heats up very quickly for a small energy input.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "1 kg of water absorbs 4200 J of energy and rises in temperature by 1°C. What is the specific heat capacity of water?",
+          "acceptedAnswers": [
+            "4200 J/(kg C)",
+            "4200",
+            "4200 J per kg per degree C"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the quantity, symbol c, in the equation ΔE = m c ΔT.",
+          "acceptedAnswers": [
+            "specific heat capacity",
+            "heat capacity",
+            "the specific heat capacity"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What two variables must be measured to find ΔT (temperature change) in the required practical?",
+          "acceptedAnswers": [
+            "initial and final temperature",
+            "starting and final temperature"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-3-4",
+      "title": "3.4 Specific Latent Heat",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Specific latent heat is the energy needed to:",
+          "options": [
+            "Raise the temperature of 1 kg of a substance by 1°C",
+            "Change the state of 1 kg of a substance with no change in temperature",
+            "Melt any mass of a substance",
+            "Boil water at any pressure"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation linking energy, mass and specific latent heat is:",
+          "options": [
+            "E = m L",
+            "E = m c ΔT",
+            "E = m g h",
+            "E = P t"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Specific latent heat of fusion refers to the change of state between:",
+          "options": [
+            "Liquid and gas",
+            "Solid and liquid",
+            "Solid and gas directly",
+            "Gas and plasma"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Specific latent heat of vaporisation refers to the change of state between:",
+          "options": [
+            "Solid and liquid",
+            "Liquid and gas",
+            "Solid and gas directly",
+            "Liquid and plasma"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "During a change of state, the temperature of a substance remains constant even though energy is being transferred.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Specific latent heat has units of J/kg.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The specific latent heat of vaporisation is generally the same value as the specific latent heat of fusion for a given substance.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "2 kg of a substance with specific latent heat of fusion 300 J/kg is melted. How much energy is required?",
+          "acceptedAnswers": [
+            "600 J",
+            "600",
+            "600 joules"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the quantity, symbol L, in the equation E = m L.",
+          "acceptedAnswers": [
+            "specific latent heat",
+            "latent heat",
+            "the specific latent heat"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "During boiling, is energy being used to increase kinetic energy or to break bonds between particles (increasing potential energy)?",
+          "acceptedAnswers": [
+            "to break bonds between particles",
+            "increasing potential energy",
+            "overcoming intermolecular forces"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-3-5",
+      "title": "3.5 Particle Motion in Gases (Physics Only)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The temperature of a gas is related to:",
+          "options": [
+            "The volume of its container only",
+            "The average kinetic energy of its particles",
+            "The colour of the gas",
+            "The mass of the container"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "As the temperature of a gas increases (at constant volume), the pressure it exerts:",
+          "options": [
+            "Decreases",
+            "Increases",
+            "Stays the same",
+            "Becomes zero"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Gas pressure is caused by:",
+          "options": [
+            "Gas particles losing energy",
+            "Gas particles colliding with the walls of their container",
+            "Gravity pulling the gas down",
+            "The colour of the gas particles"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "If the temperature of a gas in a sealed, fixed-volume container increases, what happens to its pressure?",
+          "options": [
+            "It decreases because particles slow down",
+            "It increases because particles move faster and collide more often/harder",
+            "It stays the same regardless of temperature",
+            "It becomes negative"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Increasing the temperature of a gas increases the average speed of its particles.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Gas particles exert pressure on the walls of their container due to repeated collisions.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The absolute zero of temperature is the point at which particles have maximum kinetic energy.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What name is given to the temperature at which particles have theoretically minimal kinetic energy (0 Kelvin)?",
+          "acceptedAnswers": [
+            "absolute zero",
+            "0 Kelvin",
+            "0 K"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What happens to the average kinetic energy of gas particles as temperature increases?",
+          "acceptedAnswers": [
+            "it increases",
+            "increases"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What causes gas pressure at a microscopic (particle) level?",
+          "acceptedAnswers": [
+            "collisions between gas particles and the container walls",
+            "particles colliding with the walls"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-3-6",
+      "title": "3.6 Gas Pressure, Volume and Temperature (Physics Only, HT)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "For a fixed mass of gas at constant temperature, if volume decreases, pressure:",
+          "options": [
+            "Decreases",
+            "Increases",
+            "Stays the same",
+            "Becomes zero"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The relationship pV = constant (at constant temperature) is known as:",
+          "options": [
+            "Newton's law",
+            "Boyle's law",
+            "Ohm's law",
+            "Hooke's law"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Doing work on a gas by compressing it can cause its temperature to:",
+          "options": [
+            "Decrease",
+            "Increase",
+            "Stay exactly the same",
+            "Become negative"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A gas of volume 4 m^3 at pressure 100 Pa is compressed to 2 m^3 at constant temperature. What is the new pressure?",
+          "options": [
+            "50 Pa",
+            "100 Pa",
+            "200 Pa",
+            "400 Pa"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Boyle's Law states that pressure and volume are inversely proportional at constant temperature for a fixed mass of gas.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Doing work on a gas, for example by compressing it rapidly, can increase its internal energy and temperature.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "For a fixed mass of gas at constant temperature, pressure and volume are directly proportional.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "State the equation relating pressure and volume for a fixed mass of gas at constant temperature.",
+          "acceptedAnswers": [
+            "pV = constant",
+            "p1V1 = p2V2",
+            "pressure x volume = constant"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What happens to gas pressure if you reduce the volume of its container while keeping temperature constant?",
+          "acceptedAnswers": [
+            "it increases",
+            "pressure increases"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Compressing a gas can transfer energy to it by what mechanism, potentially raising its temperature?",
+          "acceptedAnswers": [
+            "doing work on the gas",
+            "mechanical work"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-4-1",
+      "title": "4.1 Atomic Structure and Isotopes",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What is at the centre of an atom?",
+          "options": [
+            "Electrons",
+            "The nucleus, containing protons and neutrons",
+            "Only protons",
+            "Only neutrons"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the approximate radius of an atom?",
+          "options": [
+            "1 x 10^-10 m",
+            "1 x 10^-15 m",
+            "1 x 10^-2 m",
+            "1 x 10^5 m"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The atomic number of an element represents the number of:",
+          "options": [
+            "Neutrons in the nucleus",
+            "Protons in the nucleus",
+            "Electrons plus neutrons",
+            "Protons plus neutrons"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The mass number of an atom represents:",
+          "options": [
+            "The number of protons only",
+            "The number of electrons only",
+            "The total number of protons and neutrons",
+            "The number of neutrons only"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Isotopes of an element have the same number of protons but different numbers of neutrons.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "In a neutral atom, the number of electrons equals the number of protons.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The nucleus of an atom has a radius roughly the same size as the whole atom.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "An atom has 6 protons and 8 neutrons. What is its mass number?",
+          "acceptedAnswers": [
+            "14",
+            "mass number 14"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the three subatomic particles found in an atom.",
+          "acceptedAnswers": [
+            "protons, neutrons and electrons",
+            "proton neutron electron"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What overall electric charge does a neutral atom have?",
+          "acceptedAnswers": [
+            "zero",
+            "no charge",
+            "neutral"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-4-2",
+      "title": "4.2 The Development of the Atomic Model",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The 'plum pudding model' described the atom as:",
+          "options": [
+            "A tiny nucleus surrounded by empty space",
+            "A ball of positive charge with negative electrons embedded in it",
+            "A cloud of neutrons only",
+            "Entirely made of protons"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The alpha scattering experiment led scientists to conclude that atoms have:",
+          "options": [
+            "No structure at all",
+            "A small, dense, positively charged nucleus",
+            "Only negative charge throughout",
+            "No electrons"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Niels Bohr's contribution to the atomic model was to suggest that:",
+          "options": [
+            "Electrons orbit the nucleus at fixed distances (energy levels/shells)",
+            "Protons have no charge",
+            "The nucleus contains electrons",
+            "Atoms cannot be divided further"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which scientist discovered the existence of the nucleus using the gold foil (alpha scattering) experiment?",
+          "options": [
+            "Isaac Newton",
+            "Ernest Rutherford",
+            "Albert Einstein",
+            "James Chadwick"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "James Chadwick provided evidence for the existence of the neutron.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The nuclear model of the atom completely replaced the plum pudding model after alpha scattering results couldn't be explained by it.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The plum pudding model was the final, most modern model of atomic structure.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the experiment that led to the discovery of the atomic nucleus.",
+          "acceptedAnswers": [
+            "alpha scattering experiment",
+            "gold foil experiment"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Which model of the atom came before the nuclear model, describing the atom as a positively charged ball with electrons embedded in it?",
+          "acceptedAnswers": [
+            "plum pudding model",
+            "the plum pudding model"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Why were scientists surprised that some alpha particles bounced almost straight back in the scattering experiment?",
+          "acceptedAnswers": [
+            "they expected them to pass straight through, showed the nucleus is small dense and positive",
+            "suggested a concentrated positive charge/mass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-4-3",
+      "title": "4.3 Atoms and Nuclear Radiation",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "An alpha particle consists of:",
+          "options": [
+            "A single electron",
+            "2 protons and 2 neutrons",
+            "A high energy electromagnetic wave",
+            "A single neutron"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A beta particle is:",
+          "options": [
+            "A helium nucleus",
+            "A high-speed electron emitted from the nucleus",
+            "An electromagnetic wave",
+            "A proton"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which type of nuclear radiation has the greatest penetrating power?",
+          "options": [
+            "Alpha",
+            "Beta",
+            "Gamma",
+            "None of them penetrate"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which type of radiation is stopped by just a sheet of paper?",
+          "options": [
+            "Alpha",
+            "Beta",
+            "Gamma",
+            "All of them"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Gamma radiation is an electromagnetic wave, not a particle.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Alpha radiation has the least ionising power of the three main types.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "When a nucleus emits an alpha particle, its atomic number decreases by 2 and its mass number decreases by 4.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the material typically needed to stop beta radiation.",
+          "acceptedAnswers": [
+            "aluminium",
+            "aluminium sheet",
+            "a few mm of aluminium"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the material typically needed to significantly reduce gamma radiation.",
+          "acceptedAnswers": [
+            "lead",
+            "thick lead",
+            "lead or thick concrete"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What happens to the mass number and atomic number of a nucleus when it emits a beta particle?",
+          "acceptedAnswers": [
+            "mass number stays the same, atomic number increases by 1",
+            "atomic number increases by 1, mass number unchanged"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-4-4",
+      "title": "4.4 Half-life and Random Nature of Decay",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Half-life is defined as the time taken for:",
+          "options": [
+            "All radioactive atoms in a sample to decay",
+            "The number of undecayed nuclei to halve",
+            "The temperature of a sample to halve",
+            "The mass of a sample to double"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Radioactive decay is a:",
+          "options": [
+            "Predictable process for individual atoms",
+            "Random process for individual atoms",
+            "Process that can be sped up by heating",
+            "Chemical reaction"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A sample has a half-life of 10 days. After 20 days, what fraction of the original nuclei remain undecayed?",
+          "options": [
+            "1/2",
+            "1/4",
+            "1/8",
+            "3/4"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "As a radioactive source decays over time, its count rate (activity):",
+          "options": [
+            "Increases exponentially",
+            "Stays constant",
+            "Decreases over time",
+            "Increases then decreases sharply"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "true_false",
+          "prompt": "You can predict exactly which atom in a radioactive sample will decay next.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Different radioactive isotopes have a wide range of possible half-lives.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Half-life can be found from a graph of count rate (or activity) against time.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A sample starts with 800 undecayed nuclei. After one half-life, how many undecayed nuclei remain?",
+          "acceptedAnswers": [
+            "400",
+            "400 nuclei"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What term describes the number of decays per second in a radioactive sample?",
+          "acceptedAnswers": [
+            "activity",
+            "count rate"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the unit of radioactive activity?",
+          "acceptedAnswers": [
+            "becquerel",
+            "Bq"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-4-5",
+      "title": "4.5 Background Radiation, Uses and Hazards (Physics Only)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Which of these is a natural source of background radiation?",
+          "options": [
+            "Medical X-rays",
+            "Nuclear weapons testing",
+            "Radon gas from rocks and soil",
+            "Nuclear power plant waste"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which of these is a man-made source of background radiation?",
+          "options": [
+            "Cosmic rays",
+            "Radon gas",
+            "Medical X-rays and treatments",
+            "Rocks and soil"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Radioactive tracers used in medicine typically emit which type of radiation, as it can be detected outside the body?",
+          "options": [
+            "Alpha",
+            "Gamma",
+            "Only beta",
+            "No radiation at all"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Why is alpha radiation more hazardous than gamma if the source is INSIDE the body (e.g. ingested)?",
+          "options": [
+            "Alpha travels further and damages more tissue overall",
+            "Alpha is highly ionising over a short range, causing intense local damage inside the body",
+            "Alpha cannot be absorbed by body tissue",
+            "Alpha has no ionising effect"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Irradiation involves exposing an object to radiation from an external source, without the object itself becoming radioactive.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Contamination means unwanted radioactive atoms getting onto or into an object or person.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Background radiation only comes from man-made nuclear sources.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name one medical use of radioactive materials or radiation.",
+          "acceptedAnswers": [
+            "radiotherapy",
+            "cancer treatment",
+            "medical tracers",
+            "sterilising equipment"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name one industrial use of radioactive sources.",
+          "acceptedAnswers": [
+            "sterilisation",
+            "checking material thickness",
+            "smoke detectors"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the term for radiation exposure that occurs naturally all around us, from rocks, cosmic rays and other sources?",
+          "acceptedAnswers": [
+            "background radiation",
+            "natural background radiation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-4-6",
+      "title": "4.6 Nuclear Fission (Physics Only)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Nuclear fission is the process of:",
+          "options": [
+            "Joining two light nuclei together",
+            "Splitting a large, unstable nucleus into two smaller nuclei",
+            "Emitting an alpha particle from a nucleus",
+            "Converting protons into neutrons"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "For induced fission to occur, a large nucleus (e.g. uranium-235) typically must first:",
+          "options": [
+            "Absorb a neutron",
+            "Emit a gamma ray",
+            "Lose an electron",
+            "Absorb a proton"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A chain reaction in nuclear fission occurs because:",
+          "options": [
+            "Fission releases neutrons that go on to cause further fissions",
+            "Fission produces only gamma rays",
+            "Fission stops immediately after one split",
+            "Fission absorbs all surrounding neutrons"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In a nuclear power station, what is used to absorb some neutrons and control the rate of fission?",
+          "options": [
+            "Water only",
+            "Control rods",
+            "Lead shielding only",
+            "Fuel rods"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Nuclear fission releases energy, some of which appears as kinetic energy of the fission products.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Spontaneous fission happens rarely; most fission used in power generation is induced by neutron absorption.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "An uncontrolled chain reaction is the basis of how a nuclear power station safely generates electricity.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name one commonly used fuel in nuclear fission reactors.",
+          "acceptedAnswers": [
+            "uranium",
+            "uranium-235",
+            "plutonium",
+            "plutonium-239"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is released from a fissioning nucleus that can go on to trigger further fissions?",
+          "acceptedAnswers": [
+            "neutrons",
+            "free neutrons"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the component in a nuclear reactor used to slow down or absorb neutrons to control the reaction rate.",
+          "acceptedAnswers": [
+            "control rods",
+            "control rod"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-4-7",
+      "title": "4.7 Nuclear Fusion (Physics Only)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Nuclear fusion is the process of:",
+          "options": [
+            "Splitting a large nucleus into smaller ones",
+            "Joining two light nuclei together to form a heavier nucleus",
+            "Emitting a beta particle",
+            "Absorbing a neutron only"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Nuclear fusion is the process that powers:",
+          "options": [
+            "Nuclear power stations on Earth",
+            "Stars, including the Sun",
+            "Household batteries",
+            "Wind turbines"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "During nuclear fusion, some mass is converted into:",
+          "options": [
+            "Extra protons",
+            "Energy",
+            "Extra neutrons",
+            "Nothing; mass is unchanged"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Why is nuclear fusion difficult to achieve and sustain on Earth?",
+          "options": [
+            "It requires extremely high temperatures and pressures to overcome repulsion between nuclei",
+            "It happens spontaneously at room temperature",
+            "It only works with alpha particles",
+            "It produces no energy"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Nuclear fusion releases more energy per kilogram of fuel than nuclear fission.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Fusion reactions require overcoming the electrostatic repulsion between positively charged nuclei.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Nuclear fusion is currently the main method used to generate electricity in commercial power stations.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name two light elements that can fuse together in stars (e.g. in the Sun) to release energy.",
+          "acceptedAnswers": [
+            "hydrogen and helium",
+            "hydrogen",
+            "hydrogen isotopes"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What natural astronomical objects use nuclear fusion as their main energy source?",
+          "acceptedAnswers": [
+            "stars",
+            "the sun"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "In fusion, what happens to the total mass of the products compared to the reactants?",
+          "acceptedAnswers": [
+            "it decreases slightly",
+            "mass decreases, converted to energy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-5-1",
+      "title": "5.1 Forces and Their Interactions",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "A force is best described as:",
+          "options": [
+            "A scalar quantity with magnitude only",
+            "A vector quantity with magnitude and direction",
+            "Always contact-based",
+            "Always non-contact"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which of these is a contact force?",
+          "options": [
+            "Gravitational force",
+            "Magnetic force",
+            "Friction",
+            "Electrostatic force"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which of these is a non-contact force?",
+          "options": [
+            "Friction",
+            "Air resistance",
+            "Normal contact force",
+            "Gravity"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "According to Newton's Third Law, when object A exerts a force on object B:",
+          "options": [
+            "B exerts no force back on A",
+            "B exerts an equal and opposite force back on A",
+            "B exerts a smaller force back on A",
+            "Nothing happens to A"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A scalar quantity has magnitude and direction, while a vector has magnitude only.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Mass and speed are both examples of scalar quantities.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Weight and velocity are both examples of vector quantities.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the unit of force?",
+          "acceptedAnswers": [
+            "newton",
+            "newtons",
+            "N"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name one example of a non-contact force.",
+          "acceptedAnswers": [
+            "gravity",
+            "gravitational force",
+            "magnetic force",
+            "electrostatic force"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "When two forces act on an object, what term describes the single force that has the same effect as all forces acting together?",
+          "acceptedAnswers": [
+            "resultant force",
+            "resultant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-5-2",
+      "title": "5.2 Work Done and Energy Transfer",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation linking work done, force and distance is:",
+          "options": [
+            "W = F s",
+            "W = F / s",
+            "W = F + s",
+            "W = m g h"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the unit of work done?",
+          "options": [
+            "Newton",
+            "Watt",
+            "Joule",
+            "Pascal"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A force of 20 N moves an object 5 m in the direction of the force. How much work is done?",
+          "options": [
+            "4 J",
+            "25 J",
+            "100 J",
+            "0.25 J"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "1 joule of work is done when a force of:",
+          "options": [
+            "1 N moves an object 1 m",
+            "1 N moves an object 1 km",
+            "10 N moves an object 1 m",
+            "1 N moves an object 10 m"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Work done against friction is transferred mainly to the thermal energy stores of the objects involved.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Doing work on an object always transfers energy to it.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Work can only be done by non-contact forces.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A force of 15 N does 60 J of work moving an object. Calculate the distance moved in the direction of the force.",
+          "acceptedAnswers": [
+            "4 m",
+            "4",
+            "4 metres"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What quantity is transferred whenever a force does work on an object?",
+          "acceptedAnswers": [
+            "energy",
+            "energy transfer"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "State the equation linking work done, force and distance moved in the direction of the force.",
+          "acceptedAnswers": [
+            "work done = force x distance",
+            "W = F s",
+            "W = Fs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-5-3",
+      "title": "5.3 Forces and Elasticity",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation linking force, spring constant and extension is:",
+          "options": [
+            "F = k e",
+            "F = k / e",
+            "F = k + e",
+            "F = m g"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Hooke's Law states that extension is directly proportional to force, provided:",
+          "options": [
+            "The spring is compressed, not stretched",
+            "The limit of proportionality is not exceeded",
+            "The spring is made of rubber",
+            "The force is applied slowly"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A spring with spring constant 50 N/m is stretched by 0.2 m. What force is applied?",
+          "options": [
+            "10 N",
+            "25 N",
+            "100 N",
+            "250 N"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "An object that returns to its original shape after a deforming force is removed is described as:",
+          "options": [
+            "Plastic",
+            "Elastic",
+            "Rigid",
+            "Brittle"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "When elastically deformed, an object stores energy in its elastic potential energy store.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "If a spring is stretched beyond its limit of proportionality, extension is no longer directly proportional to force.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Inelastic deformation means an object returns fully to its original shape once the force is removed.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the required practical apparatus commonly used to investigate the relationship between force and extension of a spring.",
+          "acceptedAnswers": [
+            "springs, masses/weights and a ruler",
+            "masses and a spring"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the unit of the spring constant, k?",
+          "acceptedAnswers": [
+            "N/m",
+            "newtons per metre"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What happens to a spring's extension if the applied force is doubled, within the limit of proportionality?",
+          "acceptedAnswers": [
+            "it doubles",
+            "extension doubles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-5-4",
+      "title": "5.4 Moments, Levers and Gears (Physics Only)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation for the moment of a force is:",
+          "options": [
+            "Moment = force x perpendicular distance from the pivot",
+            "Moment = force / distance",
+            "Moment = force + distance",
+            "Moment = force x speed"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the unit of a moment?",
+          "options": [
+            "Newton",
+            "Newton-metre",
+            "Joule",
+            "Pascal"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "For a system to be balanced (in equilibrium), the total clockwise moment about a pivot must equal:",
+          "options": [
+            "Zero",
+            "The total anticlockwise moment",
+            "Twice the anticlockwise moment",
+            "The force applied"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A lever increases the distance from the pivot to where a force is applied mainly to:",
+          "options": [
+            "Increase the force needed to do a task",
+            "Reduce the force needed to do a task",
+            "Have no effect on the force needed",
+            "Reverse the direction of the force only"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Gears can be used to transmit rotational effects (moments) of forces.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A larger gear connected to a smaller gear can change the size of the moment (turning effect) transmitted.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The principle of moments only applies to systems that are rotating freely, not those in equilibrium.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A force of 10 N is applied 0.5 m from a pivot. Calculate the moment.",
+          "acceptedAnswers": [
+            "5 Nm",
+            "5",
+            "5 newton metres"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What must be true of two moments acting on opposite sides of a pivot for the object to be balanced?",
+          "acceptedAnswers": [
+            "they must be equal",
+            "clockwise moment equals anticlockwise moment"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Give one everyday example of a simple lever.",
+          "acceptedAnswers": [
+            "seesaw",
+            "crowbar",
+            "scissors",
+            "spanner"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-5-5",
+      "title": "5.5 Pressure in Fluids and the Atmosphere (Physics Only)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation linking pressure, force and area is:",
+          "options": [
+            "p = F / A",
+            "p = F x A",
+            "p = F + A",
+            "p = A / F"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the unit of pressure?",
+          "options": [
+            "Newton",
+            "Pascal",
+            "Joule",
+            "Watt"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Pressure in a liquid increases with:",
+          "options": [
+            "Decreasing depth only",
+            "Increasing depth and increasing density",
+            "Decreasing density only",
+            "Temperature alone"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Atmospheric pressure decreases as altitude (height above sea level) increases mainly because:",
+          "options": [
+            "The air becomes warmer",
+            "There is less air above to exert weight/pressure",
+            "Gravity becomes stronger",
+            "The air becomes denser"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A force of 20 N spread over an area of 4 m^2 gives a pressure of 5 Pa.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "An object floats when the upthrust (from displaced fluid) equals its weight.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Pressure at a point in a fluid acts only in one specific direction.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A force of 100 N acts over an area of 0.5 m^2. Calculate the pressure.",
+          "acceptedAnswers": [
+            "200 Pa",
+            "200",
+            "200 pascals"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What upward force acts on an object submerged in a fluid, caused by the difference in pressure at different depths?",
+          "acceptedAnswers": [
+            "upthrust",
+            "buoyancy",
+            "buoyant force"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Why is pressure at the bottom of a swimming pool greater than at the surface?",
+          "acceptedAnswers": [
+            "greater depth of water above increases pressure",
+            "more water/weight above pushing down"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-5-6",
+      "title": "5.6 Distance, Displacement, Speed and Velocity",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Distance is a:",
+          "options": [
+            "Vector quantity",
+            "Scalar quantity",
+            "Force",
+            "Type of energy"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Displacement is a:",
+          "options": [
+            "Scalar quantity only concerned with total path length",
+            "Vector quantity that includes direction from start to finish",
+            "The same as distance in every situation",
+            "Always equal to zero"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation linking speed, distance and time is:",
+          "options": [
+            "speed = distance / time",
+            "speed = distance x time",
+            "speed = time / distance",
+            "speed = distance + time"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A car travels 150 m in 10 s. What is its average speed?",
+          "options": [
+            "10 m/s",
+            "15 m/s",
+            "150 m/s",
+            "1500 m/s"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Velocity is speed in a given direction, making it a vector quantity.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "An object moving in a circle at constant speed has a constantly changing velocity because its direction is changing.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Distance and displacement always have exactly the same value in every journey.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the typical walking speed of a person, in m/s? (approximate)",
+          "acceptedAnswers": [
+            "1.5",
+            "1.4",
+            "around 1.5 m/s",
+            "1.5 m/s"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A cyclist travels 300 m in 60 s. Calculate their average speed.",
+          "acceptedAnswers": [
+            "5 m/s",
+            "5",
+            "5 metres per second"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What quantity describes the straight-line distance and direction from a start point to a finish point?",
+          "acceptedAnswers": [
+            "displacement",
+            "the displacement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-5-7",
+      "title": "5.7 Acceleration",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Acceleration is defined as:",
+          "options": [
+            "Distance travelled per second",
+            "The rate of change of velocity",
+            "The total distance travelled",
+            "Speed multiplied by time"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation for acceleration is:",
+          "options": [
+            "a = (v - u) / t",
+            "a = v x t",
+            "a = v / u",
+            "a = u - v"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A car accelerates from 0 to 20 m/s in 4 seconds. What is its acceleration?",
+          "options": [
+            "5 m/s^2",
+            "4 m/s^2",
+            "80 m/s^2",
+            "0.2 m/s^2"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "On a velocity-time graph, acceleration is represented by:",
+          "options": [
+            "The area under the graph",
+            "The gradient (slope) of the graph",
+            "The y-intercept",
+            "The x-intercept"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Deceleration means an object is slowing down, which can be described as negative acceleration.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "On a velocity-time graph, the area under the graph represents distance travelled.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "An object moving at constant velocity has a non-zero acceleration.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "State the equation linking final velocity, initial velocity, acceleration and distance (used for uniform acceleration).",
+          "acceptedAnswers": [
+            "v^2 = u^2 + 2as",
+            "v squared equals u squared plus 2as"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A ball accelerates uniformly at 3 m/s^2 for 5 seconds from rest. Calculate its final velocity.",
+          "acceptedAnswers": [
+            "15 m/s",
+            "15"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the unit of acceleration?",
+          "acceptedAnswers": [
+            "m/s^2",
+            "metres per second squared",
+            "m/s2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-5-8",
+      "title": "5.8 Newton's Laws of Motion",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Newton's First Law states that an object will remain at rest or moving at constant velocity unless:",
+          "options": [
+            "It is made of metal",
+            "A resultant force acts on it",
+            "It has zero mass",
+            "It is on Earth"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Newton's Second Law is expressed by the equation:",
+          "options": [
+            "F = m a",
+            "F = m / a",
+            "F = m + a",
+            "F = m g"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A resultant force of 20 N acts on a 4 kg object. What is its acceleration?",
+          "options": [
+            "5 m/s^2",
+            "80 m/s^2",
+            "0.2 m/s^2",
+            "24 m/s^2"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Newton's Third Law states that when two objects interact:",
+          "options": [
+            "Only one exerts a force",
+            "The forces they exert on each other are equal and opposite",
+            "The larger object exerts a bigger force",
+            "No forces act between them"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Inertia is the tendency of an object to continue in its state of rest or uniform motion unless acted on by a resultant force.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A greater mass means a greater force is needed to produce the same acceleration.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "According to Newton's First Law, a resultant force is needed to keep an object moving at constant velocity.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A force of 15 N gives an object an acceleration of 3 m/s^2. Calculate the mass of the object.",
+          "acceptedAnswers": [
+            "5 kg",
+            "5"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What term describes the tendency of objects to resist changes in their motion?",
+          "acceptedAnswers": [
+            "inertia",
+            "inertial mass"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "State Newton's Third Law in your own words (forces between two interacting objects).",
+          "acceptedAnswers": [
+            "equal and opposite forces act on each object",
+            "for every action there is an equal and opposite reaction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-5-9",
+      "title": "5.9 Stopping Distances, Reaction Time and Braking",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Stopping distance is the sum of:",
+          "options": [
+            "Thinking distance and braking distance",
+            "Reaction time and speed",
+            "Braking distance and speed only",
+            "Thinking distance and speed only"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Thinking distance is affected by:",
+          "options": [
+            "Road surface only",
+            "The driver's reaction time",
+            "Brake quality only",
+            "Tyre tread only"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which factor would increase braking distance?",
+          "options": [
+            "A dry road with good tyre tread",
+            "Wet or icy road conditions",
+            "Fully functioning, well-maintained brakes",
+            "Low vehicle speed"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "When a vehicle brakes, kinetic energy is mainly transferred to which energy store?",
+          "options": [
+            "Gravitational potential",
+            "Thermal energy (brakes, tyres, road)",
+            "Chemical",
+            "Elastic potential"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Alcohol, drugs, tiredness and distractions can all increase a driver's reaction time.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Braking distance depends on factors like road conditions, vehicle speed, and the condition of the brakes and tyres.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Thinking distance is unaffected by how fast a vehicle is travelling.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name one method used to measure human reaction time in a simple experiment.",
+          "acceptedAnswers": [
+            "ruler drop test",
+            "dropping a ruler",
+            "reaction timer"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Give one factor that can increase a driver's thinking distance.",
+          "acceptedAnswers": [
+            "tiredness",
+            "alcohol",
+            "drugs",
+            "distraction"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Give one factor, other than driver reaction, that increases braking distance.",
+          "acceptedAnswers": [
+            "wet road",
+            "icy road",
+            "worn brakes",
+            "worn tyres"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-5-10",
+      "title": "5.10 Momentum (Physics Only)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation for momentum is:",
+          "options": [
+            "p = m v",
+            "p = m / v",
+            "p = m + v",
+            "p = m g h"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the unit of momentum?",
+          "options": [
+            "kg m/s",
+            "N",
+            "J",
+            "m/s^2"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A 5 kg object moves at 4 m/s. What is its momentum?",
+          "options": [
+            "1.25 kg m/s",
+            "9 kg m/s",
+            "20 kg m/s",
+            "0.8 kg m/s"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In a closed system, the total momentum before an event (e.g. collision) is:",
+          "options": [
+            "Always zero afterwards",
+            "Equal to the total momentum after the event",
+            "Always greater afterwards",
+            "Unrelated to the momentum after"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Momentum is a vector quantity, so direction matters.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Conservation of momentum applies to collisions and explosions in a closed system.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Momentum can never be conserved during a collision.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A 2 kg trolley moving at 3 m/s collides and sticks to a stationary 1 kg trolley. Using conservation of momentum, calculate their combined velocity after the collision.",
+          "acceptedAnswers": [
+            "2 m/s",
+            "2"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What safety feature in cars is designed to increase the time over which a collision occurs, reducing force on passengers?",
+          "acceptedAnswers": [
+            "airbags",
+            "seatbelts",
+            "crumple zones"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "State the equation linking force, change in momentum and time (used to explain safety features).",
+          "acceptedAnswers": [
+            "F = change in momentum / time",
+            "force equals change in momentum over time"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-6-1",
+      "title": "6.1 Transverse and Longitudinal Waves",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "In a transverse wave, the oscillations are:",
+          "options": [
+            "Parallel to the direction of energy transfer",
+            "Perpendicular to the direction of energy transfer",
+            "In no particular direction",
+            "Always vertical only"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In a longitudinal wave, the oscillations are:",
+          "options": [
+            "Perpendicular to the direction of energy transfer",
+            "Parallel to the direction of energy transfer",
+            "Always at right angles to the wave",
+            "Non-existent"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which of these is an example of a longitudinal wave?",
+          "options": [
+            "Light waves",
+            "Water waves",
+            "Sound waves",
+            "Radio waves"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which of these is an example of a transverse wave?",
+          "options": [
+            "Sound waves",
+            "All electromagnetic waves",
+            "Seismic P-waves",
+            "Ultrasound only"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Waves transfer energy without transferring matter.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A longitudinal wave has areas of compression and rarefaction.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "All waves require a medium (material) to travel through, including light.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name one example of a transverse wave.",
+          "acceptedAnswers": [
+            "light",
+            "water waves",
+            "electromagnetic waves",
+            "radio waves"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name one example of a longitudinal wave.",
+          "acceptedAnswers": [
+            "sound",
+            "sound waves",
+            "seismic P-waves",
+            "ultrasound"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What do all waves transfer, without transferring the medium itself?",
+          "acceptedAnswers": [
+            "energy",
+            "energy and information"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-6-2",
+      "title": "6.2 Wave Properties and Calculations",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation linking wave speed, frequency and wavelength is:",
+          "options": [
+            "v = f λ",
+            "v = f / λ",
+            "v = f + λ",
+            "v = f - λ"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the unit of frequency?",
+          "options": [
+            "Metre",
+            "Second",
+            "Hertz",
+            "Newton"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A wave has a frequency of 5 Hz and wavelength of 2 m. What is its speed?",
+          "options": [
+            "2.5 m/s",
+            "7 m/s",
+            "10 m/s",
+            "0.4 m/s"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Amplitude of a wave is:",
+          "options": [
+            "The distance between two adjacent peaks",
+            "The maximum displacement from the undisturbed (rest) position",
+            "The number of waves per second",
+            "The speed of the wave"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Wavelength is the distance from one point on a wave to the identical point on the next wave (e.g. peak to peak).",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Frequency is the number of waves passing a point per second.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Increasing amplitude always increases wave frequency.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A wave travels at 340 m/s with a wavelength of 2 m. Calculate its frequency.",
+          "acceptedAnswers": [
+            "170 Hz",
+            "170"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the unit of wavelength?",
+          "acceptedAnswers": [
+            "metre",
+            "metres",
+            "m"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Describe the required practical method for measuring the frequency, wavelength and speed of waves in a ripple tank.",
+          "acceptedAnswers": [
+            "measure wavelength with a ruler, count waves per second for frequency, then use v=f*wavelength",
+            "use a strobe/ruler to measure wavelength and count oscillations for frequency"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-6-3",
+      "title": "6.3 Reflection and Refraction of Waves",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "When a wave is reflected off a surface, the angle of incidence is:",
+          "options": [
+            "Always greater than the angle of reflection",
+            "Always less than the angle of reflection",
+            "Equal to the angle of reflection",
+            "Always 90 degrees"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Refraction of a wave occurs when it:",
+          "options": [
+            "Bounces off a surface",
+            "Changes speed and direction as it crosses a boundary between different media",
+            "Is absorbed completely",
+            "Only changes amplitude"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "When light travels from air into a denser medium like glass, it:",
+          "options": [
+            "Speeds up and bends away from the normal",
+            "Slows down and bends towards the normal",
+            "Stays at the same speed and direction",
+            "Stops completely"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The normal, used when describing reflection and refraction, is:",
+          "options": [
+            "A line parallel to the surface",
+            "An imaginary line perpendicular (at 90°) to the surface at the point of incidence",
+            "The path of the incident ray",
+            "The path of the refracted ray only"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Sound waves can be reflected, producing echoes.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A wave's frequency changes when it is refracted from one medium to another.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Waves can be absorbed, transmitted, or reflected when they meet a boundary between two different materials.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "State the law of reflection relating angle of incidence and angle of reflection.",
+          "acceptedAnswers": [
+            "angle of incidence equals angle of reflection",
+            "angle of incidence = angle of reflection"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What happens to the direction of a wave's travel when it undergoes refraction (excluding travelling along the normal)?",
+          "acceptedAnswers": [
+            "it changes direction",
+            "it bends"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the imaginary line drawn perpendicular to a surface, used as a reference for measuring angles of incidence and reflection.",
+          "acceptedAnswers": [
+            "normal",
+            "the normal line"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-6-4",
+      "title": "6.4 Electromagnetic Waves and the Spectrum",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "All electromagnetic waves travel at the same speed through a:",
+          "options": [
+            "Solid",
+            "Liquid",
+            "Vacuum",
+            "Gas only"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which type of electromagnetic wave has the longest wavelength?",
+          "options": [
+            "Gamma rays",
+            "Radio waves",
+            "Ultraviolet",
+            "X-rays"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which type of electromagnetic wave has the highest frequency?",
+          "options": [
+            "Radio waves",
+            "Microwaves",
+            "Gamma rays",
+            "Infrared"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Electromagnetic waves are:",
+          "options": [
+            "Longitudinal waves that require a medium",
+            "Transverse waves that can travel through a vacuum",
+            "Only able to travel through solids",
+            "Sound-based waves"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "As frequency increases across the electromagnetic spectrum, wavelength decreases.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Higher frequency electromagnetic waves, like gamma and X-rays, generally carry more energy and can be more hazardous.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Visible light has a higher frequency than gamma rays.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "List the seven types of electromagnetic wave in order of increasing frequency, starting with radio waves.",
+          "acceptedAnswers": [
+            "radio waves, microwaves, infrared, visible light, ultraviolet, x-rays, gamma rays",
+            "radio, microwave, infrared, visible, ultraviolet, x-ray, gamma"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the part of the electromagnetic spectrum that our eyes can detect.",
+          "acceptedAnswers": [
+            "visible light",
+            "light"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What do all electromagnetic waves transfer from a source to an absorber?",
+          "acceptedAnswers": [
+            "energy",
+            "energy and information"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-6-5",
+      "title": "6.5 Uses and Applications of Electromagnetic Waves",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Which type of electromagnetic wave is commonly used for satellite communication and cooking food?",
+          "options": [
+            "Radio waves",
+            "Microwaves",
+            "Ultraviolet",
+            "Gamma rays"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which type of electromagnetic wave is used for remote controls and night vision?",
+          "options": [
+            "Infrared",
+            "X-rays",
+            "Gamma rays",
+            "Radio waves"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which type of electromagnetic wave is used to kill microbes and sterilise medical equipment?",
+          "options": [
+            "Radio waves",
+            "Microwaves",
+            "Gamma rays",
+            "Infrared"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "X-rays are commonly used in medicine to:",
+          "options": [
+            "Treat broken bones by heating them",
+            "Image bones and internal structures of the body",
+            "Cook internal organs",
+            "Provide suntans"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Ultraviolet radiation is used in sunbeds and can also cause skin damage/cancer with overexposure.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Radio waves are used for broadcasting television and radio programmes.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Gamma rays are used for broadcasting radio signals over long distances.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name one everyday use of infrared radiation.",
+          "acceptedAnswers": [
+            "remote controls",
+            "thermal imaging",
+            "cooking (grills/toasters)",
+            "short-range communication"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name one medical use of gamma radiation.",
+          "acceptedAnswers": [
+            "cancer treatment (radiotherapy)",
+            "sterilising equipment",
+            "medical tracers",
+            "treating tumours"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Give one hazard associated with excessive exposure to ultraviolet radiation.",
+          "acceptedAnswers": [
+            "skin cancer",
+            "skin damage",
+            "damage to eyes",
+            "premature ageing of skin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-6-6",
+      "title": "6.6 Lenses (Physics Only)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "A converging (convex) lens causes parallel rays of light to:",
+          "options": [
+            "Spread out (diverge)",
+            "Meet at a focal point",
+            "Reverse direction",
+            "Stop completely"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A diverging (concave) lens causes parallel rays of light to:",
+          "options": [
+            "Meet at a single focal point",
+            "Spread out, appearing to come from a focal point",
+            "Bounce straight back",
+            "Stay perfectly parallel"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The distance from the centre of a lens to its principal focus is called the:",
+          "options": [
+            "Wavelength",
+            "Focal length",
+            "Amplitude",
+            "Refractive index"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A real image formed by a lens can be:",
+          "options": [
+            "Only viewed directly by the eye, never on a screen",
+            "Captured on a screen because light rays actually meet there",
+            "Never inverted",
+            "Always the same size as the object"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A virtual image cannot be projected onto a screen because light rays only appear to come from it.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A convex lens is also known as a converging lens.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A concave lens causes light rays to converge to a real focal point.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the type of lens that causes parallel light rays to converge to a point.",
+          "acceptedAnswers": [
+            "convex lens",
+            "converging lens"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the type of lens that causes parallel light rays to diverge.",
+          "acceptedAnswers": [
+            "concave lens",
+            "diverging lens"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the magnification equation, linking image height and object height?",
+          "acceptedAnswers": [
+            "magnification = image height / object height",
+            "magnification equals image height divided by object height"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-6-7",
+      "title": "6.7 Visible Light, Colour and Black Body Radiation (Physics Only)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "An opaque object appears a certain colour because it:",
+          "options": [
+            "Absorbs all wavelengths of light",
+            "Reflects only the wavelength(s) corresponding to that colour and absorbs others",
+            "Emits that colour of light itself",
+            "Transmits all light through it"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A perfect black body is an object that:",
+          "options": [
+            "Reflects all radiation incident upon it",
+            "Absorbs all wavelengths of electromagnetic radiation incident upon it, with no reflection or transmission",
+            "Only absorbs visible light",
+            "Emits no radiation at all"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "As the temperature of a black body increases, the intensity of radiation emitted at all wavelengths:",
+          "options": [
+            "Decreases",
+            "Increases, and the peak wavelength shifts to shorter wavelengths",
+            "Stays exactly the same",
+            "Becomes zero"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A white object appears white in white light because it:",
+          "options": [
+            "Absorbs all colours of light",
+            "Reflects all colours of light roughly equally",
+            "Transmits all light through it",
+            "Emits its own white light"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A good absorber of radiation is also a good emitter of radiation, at a given temperature.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "All objects, including the Earth, emit and absorb electromagnetic radiation.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A black object is a poor absorber but an excellent reflector of light.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What colour does a filter transmit if red light is shone through a red filter?",
+          "acceptedAnswers": [
+            "red",
+            "red light"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the model used in physics to describe a perfect absorber and emitter of radiation.",
+          "acceptedAnswers": [
+            "black body",
+            "black body radiator",
+            "perfect black body"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What happens to the peak wavelength of radiation emitted by a black body as its temperature increases?",
+          "acceptedAnswers": [
+            "it decreases (shifts to shorter wavelengths)",
+            "peak wavelength shifts shorter"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-7-1",
+      "title": "7.1 Permanent and Induced Magnets and Magnetic Fields",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "A permanent magnet:",
+          "options": [
+            "Only produces a magnetic field when placed in another magnetic field",
+            "Produces its own magnetic field at all times",
+            "Cannot attract other magnets",
+            "Loses its magnetism instantly when moved"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "An induced magnet is a material that:",
+          "options": [
+            "Is always magnetic, even far from other magnets",
+            "Becomes magnetic only when placed in a magnetic field",
+            "Repels all other magnets permanently",
+            "Cannot be made from iron"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Two like magnetic poles (e.g. north-north) will:",
+          "options": [
+            "Attract each other",
+            "Repel each other",
+            "Have no effect on each other",
+            "Merge into one pole"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The magnetic field around a bar magnet is strongest:",
+          "options": [
+            "At the centre of the magnet",
+            "At the poles of the magnet",
+            "Equally strong everywhere",
+            "Only outside the magnet's field lines"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Magnetic field lines around a bar magnet point from north to south outside the magnet.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "An induced magnet always attracts a permanent magnet, regardless of which pole is brought close.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A compass needle aligns with the Earth's magnetic field, allowing it to indicate direction.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name two materials commonly used to make permanent or induced magnets.",
+          "acceptedAnswers": [
+            "iron and steel",
+            "iron, steel, cobalt, nickel"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What happens to an induced magnet's magnetism when it is removed from the magnetic field?",
+          "acceptedAnswers": [
+            "it quickly loses its magnetism",
+            "demagnetises"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the instrument that uses the Earth's magnetic field to indicate direction.",
+          "acceptedAnswers": [
+            "compass",
+            "a compass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-7-2",
+      "title": "7.2 The Motor Effect (Physics Only)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The motor effect occurs when:",
+          "options": [
+            "A current-carrying wire is placed in a magnetic field, experiencing a force",
+            "Two magnets are placed far apart",
+            "A wire is heated in a vacuum",
+            "A magnet is dropped onto a table"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation linking force, magnetic flux density, current and length of conductor is:",
+          "options": [
+            "F = B I L",
+            "F = B / I",
+            "F = B + I + L",
+            "F = m a"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What rule can be used to predict the direction of force on a current-carrying wire in a magnetic field?",
+          "options": [
+            "Fleming's left-hand rule",
+            "Newton's third law",
+            "Ohm's law",
+            "Boyle's law"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "An electric motor uses the motor effect to convert:",
+          "options": [
+            "Kinetic energy into electrical energy",
+            "Electrical energy into kinetic (rotational) energy",
+            "Chemical energy into nuclear energy",
+            "Sound energy into light energy"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "The force on a current-carrying conductor in a magnetic field is greatest when the conductor is perpendicular to the field.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Reversing the current direction or the magnetic field direction reverses the direction of the force in the motor effect.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The motor effect only occurs when a wire carries no current at all.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the unit of magnetic flux density, symbol B?",
+          "acceptedAnswers": [
+            "tesla",
+            "T"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the rule used to find the direction of the force, current, and magnetic field in the motor effect.",
+          "acceptedAnswers": [
+            "Fleming's left-hand rule",
+            "left hand rule"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A wire of length 0.5 m carries a current of 4 A in a magnetic field of flux density 2 T, perpendicular to the field. Calculate the force on the wire.",
+          "acceptedAnswers": [
+            "4 N",
+            "4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-7-3",
+      "title": "7.3 Induced Potential, Transformers and the National Grid (Physics Only)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Electromagnetic induction occurs when:",
+          "options": [
+            "A magnet is moved relative to a coil of wire, or vice versa, inducing a potential difference",
+            "Two magnets are held stationary next to each other",
+            "A wire is placed far from any magnetic field",
+            "A current flows through a resistor only"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A step-up transformer has more turns on which coil?",
+          "options": [
+            "The primary coil",
+            "The secondary coil",
+            "Both coils have equal turns",
+            "Neither coil has turns"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The transformer equation relates potential difference and number of turns as:",
+          "options": [
+            "Vp / Vs = Np / Ns",
+            "Vp x Vs = Np x Ns",
+            "Vp + Vs = Np + Ns",
+            "Vp - Vs = Np - Ns"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Transformers only work with which type of current?",
+          "options": [
+            "Direct current (dc)",
+            "Alternating current (ac)",
+            "Both dc and ac equally well",
+            "Neither dc nor ac"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A generator uses electromagnetic induction (moving a coil in a magnetic field) to produce an alternating potential difference.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "An ideal transformer transfers all electrical power from primary to secondary coil with no loss.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A step-down transformer increases the voltage from primary to secondary coil.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A transformer has 100 turns on the primary coil and 400 on the secondary coil, with 10 V input. Calculate the output voltage (assume ideal transformer).",
+          "acceptedAnswers": [
+            "40 V",
+            "40"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the device that uses electromagnetic induction to generate electricity by rotating a coil in a magnetic field.",
+          "acceptedAnswers": [
+            "generator",
+            "dynamo",
+            "alternator"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Why are step-up transformers used before electricity is transmitted across the National Grid?",
+          "acceptedAnswers": [
+            "to increase voltage and reduce current, reducing energy loss in cables",
+            "to reduce power loss during transmission"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-8-1",
+      "title": "8.1 The Solar System and Orbital Motion",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Our Solar System consists of the Sun and objects that orbit it, including:",
+          "options": [
+            "Only planets",
+            "Planets, dwarf planets, moons, asteroids and comets",
+            "Only stars",
+            "Only galaxies"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A moon is a natural satellite that orbits:",
+          "options": [
+            "A star directly",
+            "A planet or dwarf planet",
+            "The centre of the galaxy only",
+            "Nothing; it moves in a straight line"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Stars form from clouds of dust and gas pulled together by:",
+          "options": [
+            "Magnetic forces",
+            "Gravitational forces",
+            "Electrostatic forces",
+            "Nuclear forces alone"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A star like our Sun is currently in which stage of its life cycle?",
+          "options": [
+            "Red giant",
+            "Main sequence",
+            "White dwarf",
+            "Black hole"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "After its main sequence phase, a star much more massive than the Sun can eventually explode as a supernova.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Our Sun is expected to eventually become a red giant, then a white dwarf.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Every star in the universe will eventually become a black hole.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What force keeps planets in orbit around the Sun?",
+          "acceptedAnswers": [
+            "gravity",
+            "gravitational force"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the very dense object that can form from the remnant of a sufficiently massive star after a supernova.",
+          "acceptedAnswers": [
+            "black hole",
+            "neutron star"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the name for the stage of a star's life cycle when it is fusing hydrogen into helium in a stable phase (like our Sun now)?",
+          "acceptedAnswers": [
+            "main sequence",
+            "main sequence star"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-8-2",
+      "title": "8.2 Satellites and Orbits",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "For an object in a stable circular orbit, the gravitational force provides:",
+          "options": [
+            "A force in the direction of motion, speeding it up",
+            "A centripetal force directed towards the centre of the orbit",
+            "A force pushing it away from the orbited body",
+            "No net force at all"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In a stable orbit, if the orbital radius is greater, the orbital speed needed is:",
+          "options": [
+            "Greater",
+            "Smaller",
+            "Exactly the same",
+            "Impossible to determine"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A satellite in a stable orbit has a velocity that is constantly changing in:",
+          "options": [
+            "Magnitude, but not direction",
+            "Direction, but not magnitude (speed)",
+            "Both magnitude and direction",
+            "Neither magnitude nor direction"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which of these is an example of an artificial satellite?",
+          "options": [
+            "The Moon",
+            "GPS satellites",
+            "The Sun",
+            "An asteroid"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A change in speed or direction of an orbiting object requires a resultant (centripetal) force.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Satellites in orbit have a constant velocity because their speed and direction never change.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Geostationary satellites orbit the Earth once every 24 hours, staying above the same point on Earth's surface.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What provides the centripetal force that keeps a satellite in circular orbit around a planet?",
+          "acceptedAnswers": [
+            "gravity",
+            "gravitational force",
+            "gravitational attraction"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name one practical use of artificial satellites.",
+          "acceptedAnswers": [
+            "communication",
+            "GPS/navigation",
+            "weather monitoring",
+            "television broadcasting"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Why does an orbiting satellite maintain a constant speed even though a resultant force acts on it?",
+          "acceptedAnswers": [
+            "the force acts perpendicular to its velocity, changing direction not speed",
+            "the centripetal force only changes direction, not speed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physics-8-3",
+      "title": "8.3 Red-shift and the Expanding Universe",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Red-shift refers to the observation that light from distant galaxies is shifted towards:",
+          "options": [
+            "Shorter (blue) wavelengths",
+            "Longer (red) wavelengths",
+            "No change in wavelength",
+            "Higher frequencies"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Red-shift provides evidence that:",
+          "options": [
+            "The universe is shrinking",
+            "Distant galaxies are moving away from us and the universe is expanding",
+            "Stars are moving closer to Earth",
+            "Light travels slower over long distances"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Generally, the further away a galaxy is, the greater its observed red-shift, meaning it is moving away:",
+          "options": [
+            "More slowly",
+            "Faster",
+            "At exactly the same speed as nearby galaxies",
+            "Not at all"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The evidence from red-shift supports which scientific theory about the origin of the universe?",
+          "options": [
+            "The Steady State theory",
+            "The Big Bang theory",
+            "The Flat Earth theory",
+            "The Geocentric model"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Red-shift is similar to the Doppler effect observed with sound waves from a moving source.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Cosmic microwave background radiation is considered further evidence supporting the Big Bang theory.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Red-shift evidence suggests that all galaxies are moving closer together over time.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What name is given to the theory that the universe began from a very small, hot, dense point and has been expanding ever since?",
+          "acceptedAnswers": [
+            "Big Bang theory",
+            "the Big Bang"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What happens to the wavelength of light from a galaxy that is moving away from Earth?",
+          "acceptedAnswers": [
+            "it increases (shifts towards red)",
+            "wavelength increases/redshifted"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name the background radiation, discovered across the universe, that supports the Big Bang theory.",
+          "acceptedAnswers": [
+            "cosmic microwave background radiation",
+            "CMB",
+            "cosmic microwave background"
+          ]
+        }
+      ]
+    }
+  ]
+}

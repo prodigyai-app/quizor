@@ -1,0 +1,1488 @@
+{
+  "subjects": [
+    {
+      "id": "biology",
+      "name": "AQA GCSE Biology (8461)",
+      "file": "library/biology.json",
+      "count": 60,
+      "lessons": [
+        {
+          "id": "biology-1-1",
+          "title": "1.1 Eukaryotic and Prokaryotic Cells"
+        },
+        {
+          "id": "biology-1-2",
+          "title": "1.2 Animal and Plant Cells"
+        },
+        {
+          "id": "biology-1-3",
+          "title": "1.3 Cell Specialisation and Differentiation"
+        },
+        {
+          "id": "biology-1-4",
+          "title": "1.4 Microscopy (Required Practical)"
+        },
+        {
+          "id": "biology-1-5",
+          "title": "1.5 Culturing Microorganisms (Required Practical)"
+        },
+        {
+          "id": "biology-1-6",
+          "title": "1.6 The Cell Cycle and Mitosis"
+        },
+        {
+          "id": "biology-1-7",
+          "title": "1.7 Stem Cells"
+        },
+        {
+          "id": "biology-1-8",
+          "title": "1.8 Diffusion, Osmosis and Active Transport"
+        },
+        {
+          "id": "biology-1-9",
+          "title": "1.9 Required Practical: Investigating Osmosis"
+        },
+        {
+          "id": "biology-1-10",
+          "title": "1.10 Exchange Surfaces and Surface Area to Volume Ratio (Biology Only)"
+        },
+        {
+          "id": "biology-2-1",
+          "title": "2.1 Principles of Organisation"
+        },
+        {
+          "id": "biology-2-2",
+          "title": "2.2 The Digestive System"
+        },
+        {
+          "id": "biology-2-3",
+          "title": "2.3 Enzymes: Structure and Function"
+        },
+        {
+          "id": "biology-2-4",
+          "title": "2.4 Required Practical: Food Tests and Enzyme Activity"
+        },
+        {
+          "id": "biology-2-5",
+          "title": "2.5 The Heart and Blood Vessels"
+        },
+        {
+          "id": "biology-2-6",
+          "title": "2.6 Blood and Circulation"
+        },
+        {
+          "id": "biology-2-7",
+          "title": "2.7 Health, Risk Factors and Non-Communicable Diseases"
+        },
+        {
+          "id": "biology-2-8",
+          "title": "2.8 Cancer (Biology Only)"
+        },
+        {
+          "id": "biology-2-9",
+          "title": "2.9 Plant Tissues and Organs"
+        },
+        {
+          "id": "biology-2-10",
+          "title": "2.10 Transpiration and Translocation (Biology Only)"
+        },
+        {
+          "id": "biology-3-1",
+          "title": "3.1 Communicable Diseases and Pathogens"
+        },
+        {
+          "id": "biology-3-2",
+          "title": "3.2 Viral, Bacterial, Fungal and Protist Diseases"
+        },
+        {
+          "id": "biology-3-3",
+          "title": "3.3 Human Defence Systems"
+        },
+        {
+          "id": "biology-3-4",
+          "title": "3.4 Vaccination"
+        },
+        {
+          "id": "biology-3-5",
+          "title": "3.5 Antibiotics, Painkillers and Drug Development"
+        },
+        {
+          "id": "biology-3-6",
+          "title": "3.6 Monoclonal Antibodies (Biology Only)"
+        },
+        {
+          "id": "biology-3-7",
+          "title": "3.7 Plant Diseases and Defence Responses (Biology Only)"
+        },
+        {
+          "id": "biology-4-1",
+          "title": "4.1 Photosynthesis: Reaction and Required Practical"
+        },
+        {
+          "id": "biology-4-2",
+          "title": "4.2 Limiting Factors in Photosynthesis"
+        },
+        {
+          "id": "biology-4-3",
+          "title": "4.3 Uses of Glucose from Photosynthesis (Biology Only)"
+        },
+        {
+          "id": "biology-4-4",
+          "title": "4.4 Aerobic and Anaerobic Respiration"
+        },
+        {
+          "id": "biology-4-5",
+          "title": "4.5 Response to Exercise (Biology Only)"
+        },
+        {
+          "id": "biology-4-6",
+          "title": "4.6 Metabolism (Biology Only)"
+        },
+        {
+          "id": "biology-5-1",
+          "title": "5.1 Homeostasis: Principles"
+        },
+        {
+          "id": "biology-5-2",
+          "title": "5.2 The Human Nervous System and Reflexes"
+        },
+        {
+          "id": "biology-5-3",
+          "title": "5.3 The Brain, Eye and Body Temperature Control (Biology Only)"
+        },
+        {
+          "id": "biology-5-4",
+          "title": "5.4 Hormonal Coordination: The Endocrine System"
+        },
+        {
+          "id": "biology-5-5",
+          "title": "5.5 Control of Blood Glucose and Diabetes"
+        },
+        {
+          "id": "biology-5-6",
+          "title": "5.6 Hormones in Human Reproduction and Contraception (Biology Only)"
+        },
+        {
+          "id": "biology-5-7",
+          "title": "5.7 Infertility Treatments and Negative Feedback (Biology Only, HT)"
+        },
+        {
+          "id": "biology-5-8",
+          "title": "5.8 Kidney Function and Water Balance (Biology Only)"
+        },
+        {
+          "id": "biology-5-9",
+          "title": "5.9 Plant Hormones (Biology Only)"
+        },
+        {
+          "id": "biology-6-1",
+          "title": "6.1 Sexual and Asexual Reproduction"
+        },
+        {
+          "id": "biology-6-2",
+          "title": "6.2 Meiosis"
+        },
+        {
+          "id": "biology-6-3",
+          "title": "6.3 DNA, the Genome and Protein Synthesis (Biology Only)"
+        },
+        {
+          "id": "biology-6-4",
+          "title": "6.4 Genetic Inheritance, Punnett Squares and Inherited Disorders"
+        },
+        {
+          "id": "biology-6-5",
+          "title": "6.5 Sex Determination"
+        },
+        {
+          "id": "biology-6-6",
+          "title": "6.6 Variation and Evolution by Natural Selection"
+        },
+        {
+          "id": "biology-6-7",
+          "title": "6.7 Evidence for Evolution: Fossils, Extinction and Antibiotic Resistance"
+        },
+        {
+          "id": "biology-6-8",
+          "title": "6.8 Classification of Living Organisms"
+        },
+        {
+          "id": "biology-6-9",
+          "title": "6.9 Selective Breeding (Biology Only)"
+        },
+        {
+          "id": "biology-6-10",
+          "title": "6.10 Genetic Engineering and Cloning (Biology Only)"
+        },
+        {
+          "id": "biology-7-1",
+          "title": "7.1 Communities and Ecosystems: Abiotic and Biotic Factors"
+        },
+        {
+          "id": "biology-7-2",
+          "title": "7.2 Required Practical: Sampling Techniques"
+        },
+        {
+          "id": "biology-7-3",
+          "title": "7.3 Food Chains, Trophic Levels and Pyramids"
+        },
+        {
+          "id": "biology-7-4",
+          "title": "7.4 The Carbon Cycle and Water Cycle"
+        },
+        {
+          "id": "biology-7-5",
+          "title": "7.5 Decomposition (Biology Only)"
+        },
+        {
+          "id": "biology-7-6",
+          "title": "7.6 Biodiversity and Human Impact on Ecosystems"
+        },
+        {
+          "id": "biology-7-7",
+          "title": "7.7 Global Warming and Maintaining Biodiversity (Biology Only)"
+        },
+        {
+          "id": "biology-7-8",
+          "title": "7.8 Food Security and Sustainable Food Production (Biology Only)"
+        }
+      ]
+    },
+    {
+      "id": "chemistry",
+      "name": "AQA GCSE Chemistry (8462)",
+      "file": "library/chemistry.json",
+      "count": 59,
+      "lessons": [
+        {
+          "id": "chemistry-1-1",
+          "title": "1.1 Atoms, Elements and Compounds"
+        },
+        {
+          "id": "chemistry-1-2",
+          "title": "1.2 Mixtures and Separation Techniques"
+        },
+        {
+          "id": "chemistry-1-3",
+          "title": "1.3 The Development of the Atomic Model"
+        },
+        {
+          "id": "chemistry-1-4",
+          "title": "1.4 Structure of the Atom (Protons, Neutrons, Electrons and Isotopes)"
+        },
+        {
+          "id": "chemistry-1-5",
+          "title": "1.5 Electronic Structure"
+        },
+        {
+          "id": "chemistry-1-6",
+          "title": "1.6 The Periodic Table: Development and Structure"
+        },
+        {
+          "id": "chemistry-1-7",
+          "title": "1.7 Metals and Non-metals"
+        },
+        {
+          "id": "chemistry-1-8",
+          "title": "1.8 Group 0: The Noble Gases"
+        },
+        {
+          "id": "chemistry-1-9",
+          "title": "1.9 Group 1: The Alkali Metals"
+        },
+        {
+          "id": "chemistry-1-10",
+          "title": "1.10 Group 7: The Halogens"
+        },
+        {
+          "id": "chemistry-2-1",
+          "title": "2.1 Ionic Bonding and Ionic Compounds"
+        },
+        {
+          "id": "chemistry-2-2",
+          "title": "2.2 Covalent Bonding: Simple Molecules"
+        },
+        {
+          "id": "chemistry-2-3",
+          "title": "2.3 Covalent Bonding: Giant Structures (Diamond, Graphite, Graphene, Fullerenes)"
+        },
+        {
+          "id": "chemistry-2-4",
+          "title": "2.4 Metallic Bonding and Properties of Metals"
+        },
+        {
+          "id": "chemistry-2-5",
+          "title": "2.5 States of Matter and Changes of State"
+        },
+        {
+          "id": "chemistry-2-6",
+          "title": "2.6 Polymers: Structure and Bonding (Chemistry Only)"
+        },
+        {
+          "id": "chemistry-3-1",
+          "title": "3.1 Conservation of Mass and Balanced Equations"
+        },
+        {
+          "id": "chemistry-3-2",
+          "title": "3.2 Relative Formula Mass and Moles"
+        },
+        {
+          "id": "chemistry-3-3",
+          "title": "3.3 Using Moles in Calculations (Chemistry Only)"
+        },
+        {
+          "id": "chemistry-3-4",
+          "title": "3.4 Concentration of Solutions"
+        },
+        {
+          "id": "chemistry-3-5",
+          "title": "3.5 Percentage Yield and Atom Economy (Chemistry Only)"
+        },
+        {
+          "id": "chemistry-3-6",
+          "title": "3.6 Molar Volume of Gases (Chemistry Only, HT)"
+        },
+        {
+          "id": "chemistry-4-1",
+          "title": "4.1 Reactivity of Metals and Metal Oxides"
+        },
+        {
+          "id": "chemistry-4-2",
+          "title": "4.2 Extraction of Metals and Reduction"
+        },
+        {
+          "id": "chemistry-4-3",
+          "title": "4.3 Reactions of Acids with Metals and the Reactivity Series"
+        },
+        {
+          "id": "chemistry-4-4",
+          "title": "4.4 Reactions of Acids: Neutralisation and Making Salts"
+        },
+        {
+          "id": "chemistry-4-5",
+          "title": "4.5 Making Soluble Salts (Required Practical)"
+        },
+        {
+          "id": "chemistry-4-6",
+          "title": "4.6 Strong and Weak Acids and the pH Scale (Chemistry Only)"
+        },
+        {
+          "id": "chemistry-4-7",
+          "title": "4.7 Electrolysis of Molten Ionic Compounds"
+        },
+        {
+          "id": "chemistry-4-8",
+          "title": "4.8 Electrolysis of Aqueous Solutions (Required Practical)"
+        },
+        {
+          "id": "chemistry-5-1",
+          "title": "5.1 Exothermic and Endothermic Reactions"
+        },
+        {
+          "id": "chemistry-5-2",
+          "title": "5.2 Reaction Profiles"
+        },
+        {
+          "id": "chemistry-5-3",
+          "title": "5.3 Required Practical: Measuring Temperature Changes"
+        },
+        {
+          "id": "chemistry-5-4",
+          "title": "5.4 Chemical Cells and Fuel Cells (Chemistry Only)"
+        },
+        {
+          "id": "chemistry-6-1",
+          "title": "6.1 Rates of Reaction: Factors and Collision Theory"
+        },
+        {
+          "id": "chemistry-6-2",
+          "title": "6.2 Required Practical: Investigating Rates of Reaction"
+        },
+        {
+          "id": "chemistry-6-3",
+          "title": "6.3 Catalysts"
+        },
+        {
+          "id": "chemistry-6-4",
+          "title": "6.4 Reversible Reactions and Energy Changes"
+        },
+        {
+          "id": "chemistry-6-5",
+          "title": "6.5 Dynamic Equilibrium (Chemistry Only)"
+        },
+        {
+          "id": "chemistry-6-6",
+          "title": "6.6 Le Chatelier's Principle (Chemistry Only, HT)"
+        },
+        {
+          "id": "chemistry-7-1",
+          "title": "7.1 Crude Oil, Hydrocarbons and Fractional Distillation"
+        },
+        {
+          "id": "chemistry-7-2",
+          "title": "7.2 Properties of Hydrocarbons and Combustion"
+        },
+        {
+          "id": "chemistry-7-3",
+          "title": "7.3 Cracking and Alkenes"
+        },
+        {
+          "id": "chemistry-7-4",
+          "title": "7.4 Alcohols (Chemistry Only)"
+        },
+        {
+          "id": "chemistry-7-5",
+          "title": "7.5 Carboxylic Acids (Chemistry Only)"
+        },
+        {
+          "id": "chemistry-7-6",
+          "title": "7.6 Addition Polymerisation (Chemistry Only)"
+        },
+        {
+          "id": "chemistry-7-7",
+          "title": "7.7 Condensation Polymerisation, Amino Acids and DNA (Chemistry Only, HT)"
+        },
+        {
+          "id": "chemistry-8-1",
+          "title": "8.1 Purity, Formulations and Chromatography"
+        },
+        {
+          "id": "chemistry-8-2",
+          "title": "8.2 Tests for Gases"
+        },
+        {
+          "id": "chemistry-8-3",
+          "title": "8.3 Tests for Ions: Flame Tests and Precipitate Reactions (Chemistry Only)"
+        },
+        {
+          "id": "chemistry-8-4",
+          "title": "8.4 Instrumental Methods: Flame Emission Spectroscopy (Chemistry Only, HT)"
+        },
+        {
+          "id": "chemistry-9-1",
+          "title": "9.1 The Composition and Evolution of the Earth's Atmosphere"
+        },
+        {
+          "id": "chemistry-9-2",
+          "title": "9.2 Carbon Dioxide and the Greenhouse Effect"
+        },
+        {
+          "id": "chemistry-9-3",
+          "title": "9.3 Global Climate Change"
+        },
+        {
+          "id": "chemistry-9-4",
+          "title": "9.4 Atmospheric Pollutants and Their Sources"
+        },
+        {
+          "id": "chemistry-10-1",
+          "title": "10.1 Using the Earth's Resources and Obtaining Potable Water"
+        },
+        {
+          "id": "chemistry-10-2",
+          "title": "10.2 Life Cycle Assessments and Recycling"
+        },
+        {
+          "id": "chemistry-10-3",
+          "title": "10.3 Extracting Metals from Ores: Alternative Methods (Chemistry Only)"
+        },
+        {
+          "id": "chemistry-10-4",
+          "title": "10.4 The Haber Process and NPK Fertilisers (Chemistry Only)"
+        }
+      ]
+    },
+    {
+      "id": "physics",
+      "name": "AQA GCSE Physics (8463)",
+      "file": "library/physics.json",
+      "count": 51,
+      "lessons": [
+        {
+          "id": "physics-1-1",
+          "title": "1.1 Energy Stores and Systems"
+        },
+        {
+          "id": "physics-1-2",
+          "title": "1.2 Changes in Energy"
+        },
+        {
+          "id": "physics-1-3",
+          "title": "1.3 Energy Changes in Systems and Specific Heat Capacity"
+        },
+        {
+          "id": "physics-1-4",
+          "title": "1.4 Power"
+        },
+        {
+          "id": "physics-1-5",
+          "title": "1.5 Energy Transfers in a System"
+        },
+        {
+          "id": "physics-1-6",
+          "title": "1.6 Efficiency"
+        },
+        {
+          "id": "physics-1-7",
+          "title": "1.7 National and Global Energy Resources"
+        },
+        {
+          "id": "physics-2-1",
+          "title": "2.1 Circuit Diagrams, Current and Charge"
+        },
+        {
+          "id": "physics-2-2",
+          "title": "2.2 Current, Potential Difference and Resistance"
+        },
+        {
+          "id": "physics-2-3",
+          "title": "2.3 Resistors and I-V Characteristics"
+        },
+        {
+          "id": "physics-2-4",
+          "title": "2.4 Series and Parallel Circuits"
+        },
+        {
+          "id": "physics-2-5",
+          "title": "2.5 Alternating Current and Mains Electricity"
+        },
+        {
+          "id": "physics-2-6",
+          "title": "2.6 Energy Transfers and Electrical Power"
+        },
+        {
+          "id": "physics-2-7",
+          "title": "2.7 The National Grid"
+        },
+        {
+          "id": "physics-2-8",
+          "title": "2.8 Static Charge and Electric Fields (Physics Only)"
+        },
+        {
+          "id": "physics-3-1",
+          "title": "3.1 Density"
+        },
+        {
+          "id": "physics-3-2",
+          "title": "3.2 Changes of State and Internal Energy"
+        },
+        {
+          "id": "physics-3-3",
+          "title": "3.3 Specific Heat Capacity"
+        },
+        {
+          "id": "physics-3-4",
+          "title": "3.4 Specific Latent Heat"
+        },
+        {
+          "id": "physics-3-5",
+          "title": "3.5 Particle Motion in Gases (Physics Only)"
+        },
+        {
+          "id": "physics-3-6",
+          "title": "3.6 Gas Pressure, Volume and Temperature (Physics Only, HT)"
+        },
+        {
+          "id": "physics-4-1",
+          "title": "4.1 Atomic Structure and Isotopes"
+        },
+        {
+          "id": "physics-4-2",
+          "title": "4.2 The Development of the Atomic Model"
+        },
+        {
+          "id": "physics-4-3",
+          "title": "4.3 Atoms and Nuclear Radiation"
+        },
+        {
+          "id": "physics-4-4",
+          "title": "4.4 Half-life and Random Nature of Decay"
+        },
+        {
+          "id": "physics-4-5",
+          "title": "4.5 Background Radiation, Uses and Hazards (Physics Only)"
+        },
+        {
+          "id": "physics-4-6",
+          "title": "4.6 Nuclear Fission (Physics Only)"
+        },
+        {
+          "id": "physics-4-7",
+          "title": "4.7 Nuclear Fusion (Physics Only)"
+        },
+        {
+          "id": "physics-5-1",
+          "title": "5.1 Forces and Their Interactions"
+        },
+        {
+          "id": "physics-5-2",
+          "title": "5.2 Work Done and Energy Transfer"
+        },
+        {
+          "id": "physics-5-3",
+          "title": "5.3 Forces and Elasticity"
+        },
+        {
+          "id": "physics-5-4",
+          "title": "5.4 Moments, Levers and Gears (Physics Only)"
+        },
+        {
+          "id": "physics-5-5",
+          "title": "5.5 Pressure in Fluids and the Atmosphere (Physics Only)"
+        },
+        {
+          "id": "physics-5-6",
+          "title": "5.6 Distance, Displacement, Speed and Velocity"
+        },
+        {
+          "id": "physics-5-7",
+          "title": "5.7 Acceleration"
+        },
+        {
+          "id": "physics-5-8",
+          "title": "5.8 Newton's Laws of Motion"
+        },
+        {
+          "id": "physics-5-9",
+          "title": "5.9 Stopping Distances, Reaction Time and Braking"
+        },
+        {
+          "id": "physics-5-10",
+          "title": "5.10 Momentum (Physics Only)"
+        },
+        {
+          "id": "physics-6-1",
+          "title": "6.1 Transverse and Longitudinal Waves"
+        },
+        {
+          "id": "physics-6-2",
+          "title": "6.2 Wave Properties and Calculations"
+        },
+        {
+          "id": "physics-6-3",
+          "title": "6.3 Reflection and Refraction of Waves"
+        },
+        {
+          "id": "physics-6-4",
+          "title": "6.4 Electromagnetic Waves and the Spectrum"
+        },
+        {
+          "id": "physics-6-5",
+          "title": "6.5 Uses and Applications of Electromagnetic Waves"
+        },
+        {
+          "id": "physics-6-6",
+          "title": "6.6 Lenses (Physics Only)"
+        },
+        {
+          "id": "physics-6-7",
+          "title": "6.7 Visible Light, Colour and Black Body Radiation (Physics Only)"
+        },
+        {
+          "id": "physics-7-1",
+          "title": "7.1 Permanent and Induced Magnets and Magnetic Fields"
+        },
+        {
+          "id": "physics-7-2",
+          "title": "7.2 The Motor Effect (Physics Only)"
+        },
+        {
+          "id": "physics-7-3",
+          "title": "7.3 Induced Potential, Transformers and the National Grid (Physics Only)"
+        },
+        {
+          "id": "physics-8-1",
+          "title": "8.1 The Solar System and Orbital Motion"
+        },
+        {
+          "id": "physics-8-2",
+          "title": "8.2 Satellites and Orbits"
+        },
+        {
+          "id": "physics-8-3",
+          "title": "8.3 Red-shift and the Expanding Universe"
+        }
+      ]
+    },
+    {
+      "id": "maths",
+      "name": "Edexcel GCSE Maths Foundation",
+      "file": "library/maths.json",
+      "count": 58,
+      "lessons": [
+        {
+          "id": "maths-1-1",
+          "title": "1.1 Place Value, Ordering and Rounding"
+        },
+        {
+          "id": "maths-1-2",
+          "title": "1.2 Negative Numbers and the Four Operations"
+        },
+        {
+          "id": "maths-1-3",
+          "title": "1.3 Factors, Multiples and Primes"
+        },
+        {
+          "id": "maths-1-4",
+          "title": "1.4 Powers, Roots and Order of Operations (BIDMAS)"
+        },
+        {
+          "id": "maths-1-5",
+          "title": "1.5 Fractions: Simplifying, Ordering and Converting"
+        },
+        {
+          "id": "maths-1-6",
+          "title": "1.6 Adding and Subtracting Fractions"
+        },
+        {
+          "id": "maths-1-7",
+          "title": "1.7 Multiplying and Dividing Fractions"
+        },
+        {
+          "id": "maths-1-8",
+          "title": "1.8 Decimals and Fraction-Decimal-Percentage Conversions"
+        },
+        {
+          "id": "maths-1-9",
+          "title": "1.9 Estimation and Approximation"
+        },
+        {
+          "id": "maths-1-10",
+          "title": "1.10 Standard Form"
+        },
+        {
+          "id": "maths-1-11",
+          "title": "1.11 Percentages of Amounts and Percentage Change"
+        },
+        {
+          "id": "maths-1-12",
+          "title": "1.12 Working with Percentages (Reverse, Increase and Decrease)"
+        },
+        {
+          "id": "maths-2-1",
+          "title": "2.1 Algebraic Notation and Substitution"
+        },
+        {
+          "id": "maths-2-2",
+          "title": "2.2 Simplifying Expressions (Collecting Like Terms)"
+        },
+        {
+          "id": "maths-2-3",
+          "title": "2.3 Expanding Brackets"
+        },
+        {
+          "id": "maths-2-4",
+          "title": "2.4 Factorising Expressions"
+        },
+        {
+          "id": "maths-2-5",
+          "title": "2.5 Solving Linear Equations"
+        },
+        {
+          "id": "maths-2-6",
+          "title": "2.6 Solving Equations with Brackets and Fractions"
+        },
+        {
+          "id": "maths-2-7",
+          "title": "2.7 Forming and Solving Equations from Words"
+        },
+        {
+          "id": "maths-2-8",
+          "title": "2.8 Simultaneous Equations"
+        },
+        {
+          "id": "maths-2-9",
+          "title": "2.9 Inequalities"
+        },
+        {
+          "id": "maths-2-10",
+          "title": "2.10 Sequences (Linear, Term-to-Term and nth Term)"
+        },
+        {
+          "id": "maths-2-11",
+          "title": "2.11 Coordinates and Straight-Line Graphs"
+        },
+        {
+          "id": "maths-2-12",
+          "title": "2.12 Real-Life Graphs (Distance-Time, Conversion)"
+        },
+        {
+          "id": "maths-2-13",
+          "title": "2.13 Quadratic Expressions and Simple Quadratic Equations"
+        },
+        {
+          "id": "maths-3-1",
+          "title": "3.1 Ratio Notation and Simplifying Ratios"
+        },
+        {
+          "id": "maths-3-2",
+          "title": "3.2 Sharing in a Given Ratio"
+        },
+        {
+          "id": "maths-3-3",
+          "title": "3.3 Ratio and Proportion Problems (incl. Best Buys)"
+        },
+        {
+          "id": "maths-3-4",
+          "title": "3.4 Scale Diagrams and Maps"
+        },
+        {
+          "id": "maths-3-5",
+          "title": "3.5 Direct Proportion"
+        },
+        {
+          "id": "maths-3-6",
+          "title": "3.6 Compound Measures (Speed, Density, Pressure)"
+        },
+        {
+          "id": "maths-3-7",
+          "title": "3.7 Converting Units (Metric and Time)"
+        },
+        {
+          "id": "maths-3-8",
+          "title": "3.8 Growth, Decay and Compound Interest"
+        },
+        {
+          "id": "maths-4-1",
+          "title": "4.1 Properties of 2D Shapes"
+        },
+        {
+          "id": "maths-4-2",
+          "title": "4.2 Angles in Parallel Lines and Polygons"
+        },
+        {
+          "id": "maths-4-3",
+          "title": "4.3 Angles in Triangles and Quadrilaterals"
+        },
+        {
+          "id": "maths-4-4",
+          "title": "4.4 Perimeter and Area of 2D Shapes"
+        },
+        {
+          "id": "maths-4-5",
+          "title": "4.5 Circles: Circumference and Area"
+        },
+        {
+          "id": "maths-4-6",
+          "title": "4.6 3D Shapes, Surface Area and Volume"
+        },
+        {
+          "id": "maths-4-7",
+          "title": "4.7 Pythagoras' Theorem"
+        },
+        {
+          "id": "maths-4-8",
+          "title": "4.8 Trigonometry (SOH CAH TOA)"
+        },
+        {
+          "id": "maths-4-9",
+          "title": "4.9 Transformations: Reflection and Rotation"
+        },
+        {
+          "id": "maths-4-10",
+          "title": "4.10 Transformations: Translation and Enlargement"
+        },
+        {
+          "id": "maths-4-11",
+          "title": "4.11 Similarity and Congruence"
+        },
+        {
+          "id": "maths-4-12",
+          "title": "4.12 Constructions, Loci and Bearings"
+        },
+        {
+          "id": "maths-4-13",
+          "title": "4.13 Vectors and Translations (Column Vector Notation)"
+        },
+        {
+          "id": "maths-5-1",
+          "title": "5.1 Basic Probability and the Probability Scale"
+        },
+        {
+          "id": "maths-5-2",
+          "title": "5.2 Listing Outcomes and Sample Space Diagrams"
+        },
+        {
+          "id": "maths-5-3",
+          "title": "5.3 The AND/OR Rules and Venn Diagrams"
+        },
+        {
+          "id": "maths-5-4",
+          "title": "5.4 Relative Frequency and Experimental Probability"
+        },
+        {
+          "id": "maths-5-5",
+          "title": "5.5 Tree Diagrams"
+        },
+        {
+          "id": "maths-6-1",
+          "title": "6.1 Collecting Data and Types of Data"
+        },
+        {
+          "id": "maths-6-2",
+          "title": "6.2 Tables, Charts and Bar Charts"
+        },
+        {
+          "id": "maths-6-3",
+          "title": "6.3 Pie Charts"
+        },
+        {
+          "id": "maths-6-4",
+          "title": "6.4 Averages and Range (Mean, Median, Mode)"
+        },
+        {
+          "id": "maths-6-5",
+          "title": "6.5 Averages from Frequency Tables"
+        },
+        {
+          "id": "maths-6-6",
+          "title": "6.6 Scatter Graphs and Correlation"
+        },
+        {
+          "id": "maths-6-7",
+          "title": "6.7 Time Series Graphs"
+        }
+      ]
+    },
+    {
+      "id": "physics-alevel",
+      "name": "OCR A-level Physics A (H556)",
+      "file": "library/physics-alevel.json",
+      "count": 40,
+      "lessons": [
+        {
+          "id": "physics-alevel-2-1",
+          "title": "2.1 Physical Quantities, Units and Prefixes"
+        },
+        {
+          "id": "physics-alevel-2-2",
+          "title": "2.2 Measurements, Uncertainty and Error Analysis"
+        },
+        {
+          "id": "physics-alevel-2-3",
+          "title": "2.3 Scalars and Vectors"
+        },
+        {
+          "id": "physics-alevel-3-1",
+          "title": "3.1 Motion: Displacement, Velocity, Acceleration and SUVAT"
+        },
+        {
+          "id": "physics-alevel-3-2",
+          "title": "3.2 Motion Graphs and Projectile Motion"
+        },
+        {
+          "id": "physics-alevel-3-3",
+          "title": "3.3 Forces in Action: Newton's Laws and Free-Body Diagrams"
+        },
+        {
+          "id": "physics-alevel-3-4",
+          "title": "3.4 Moments, Equilibrium and Density/Pressure"
+        },
+        {
+          "id": "physics-alevel-3-5",
+          "title": "3.5 Work, Energy and Power"
+        },
+        {
+          "id": "physics-alevel-3-6",
+          "title": "3.6 Conservation of Energy and Efficiency"
+        },
+        {
+          "id": "physics-alevel-3-7",
+          "title": "3.7 Materials: Hooke's Law, Stress, Strain and the Young Modulus"
+        },
+        {
+          "id": "physics-alevel-3-8",
+          "title": "3.8 Newton's Third Law, Momentum and Collisions"
+        },
+        {
+          "id": "physics-alevel-4-1",
+          "title": "4.1 Charge, Current and Potential Difference"
+        },
+        {
+          "id": "physics-alevel-4-2",
+          "title": "4.2 Resistance, Resistivity and I–V Characteristics"
+        },
+        {
+          "id": "physics-alevel-4-3",
+          "title": "4.3 Circuits: EMF, Internal Resistance and Kirchhoff's Laws"
+        },
+        {
+          "id": "physics-alevel-4-4",
+          "title": "4.4 The Potential Divider"
+        },
+        {
+          "id": "physics-alevel-4-5",
+          "title": "4.5 Progressive Waves and Wave Properties"
+        },
+        {
+          "id": "physics-alevel-4-6",
+          "title": "4.6 Longitudinal and Transverse Waves, Polarisation"
+        },
+        {
+          "id": "physics-alevel-4-7",
+          "title": "4.7 Superposition, Standing Waves and Two-Source Interference"
+        },
+        {
+          "id": "physics-alevel-4-8",
+          "title": "4.8 Young's Double-Slit Experiment and Diffraction Gratings"
+        },
+        {
+          "id": "physics-alevel-4-9",
+          "title": "4.9 The Photoelectric Effect and Photon Energy"
+        },
+        {
+          "id": "physics-alevel-4-10",
+          "title": "4.10 Wave-Particle Duality and Electron Diffraction"
+        },
+        {
+          "id": "physics-alevel-5-1",
+          "title": "5.1 Thermal Physics: Temperature, Specific Heat Capacity and Latent Heat"
+        },
+        {
+          "id": "physics-alevel-5-2",
+          "title": "5.2 Ideal Gases and the Kinetic Theory of Gases"
+        },
+        {
+          "id": "physics-alevel-5-3",
+          "title": "5.3 Circular Motion"
+        },
+        {
+          "id": "physics-alevel-5-4",
+          "title": "5.4 Simple Harmonic Motion: Definition and the SHM Equations"
+        },
+        {
+          "id": "physics-alevel-5-5",
+          "title": "5.5 Energy in SHM, Damping and Resonance"
+        },
+        {
+          "id": "physics-alevel-5-6",
+          "title": "5.6 Gravitational Fields and Newton's Law of Gravitation"
+        },
+        {
+          "id": "physics-alevel-5-7",
+          "title": "5.7 Gravitational Potential, Orbits and Kepler's Laws"
+        },
+        {
+          "id": "physics-alevel-5-8",
+          "title": "5.8 Stars: Classification, Luminosity and the Hertzsprung-Russell Diagram"
+        },
+        {
+          "id": "physics-alevel-5-9",
+          "title": "5.9 Telescopes and the Electromagnetic Spectrum in Astronomy"
+        },
+        {
+          "id": "physics-alevel-5-10",
+          "title": "5.10 Cosmology: Doppler Redshift, Hubble's Law and the Big Bang"
+        },
+        {
+          "id": "physics-alevel-6-1",
+          "title": "6.1 Capacitors: Charge, Energy and Discharge"
+        },
+        {
+          "id": "physics-alevel-6-2",
+          "title": "6.2 Electric Fields and Coulomb's Law"
+        },
+        {
+          "id": "physics-alevel-6-3",
+          "title": "6.3 Magnetic Fields and the Motor Effect"
+        },
+        {
+          "id": "physics-alevel-6-4",
+          "title": "6.4 Electromagnetic Induction and Transformers"
+        },
+        {
+          "id": "physics-alevel-6-5",
+          "title": "6.5 Alternating Current"
+        },
+        {
+          "id": "physics-alevel-6-6",
+          "title": "6.6 Particle Physics: Classification of Particles, Quarks and Leptons"
+        },
+        {
+          "id": "physics-alevel-6-7",
+          "title": "6.7 Particle Interactions and Conservation Laws"
+        },
+        {
+          "id": "physics-alevel-6-8",
+          "title": "6.8 Radioactive Decay and Half-Life"
+        },
+        {
+          "id": "physics-alevel-6-9",
+          "title": "6.9 Nuclear Radius, Binding Energy and Medical Imaging"
+        }
+      ]
+    },
+    {
+      "id": "maths-higher",
+      "name": "Edexcel GCSE Maths Higher",
+      "file": "library/maths-higher.json",
+      "count": 91,
+      "lessons": [
+        {
+          "id": "maths-higher-N1",
+          "title": "N1 Order integers, decimals and fractions"
+        },
+        {
+          "id": "maths-higher-N2",
+          "title": "N2 Apply the four operations"
+        },
+        {
+          "id": "maths-higher-N3",
+          "title": "N3 Powers, roots and hierarchy of operations"
+        },
+        {
+          "id": "maths-higher-N4",
+          "title": "N4 Factors, multiples, primes, HCF and LCM"
+        },
+        {
+          "id": "maths-higher-N5",
+          "title": "N5 Simplify and use surds"
+        },
+        {
+          "id": "maths-higher-N6",
+          "title": "N6 Standard form"
+        },
+        {
+          "id": "maths-higher-N7",
+          "title": "N7 Fractions, decimals and percentages"
+        },
+        {
+          "id": "maths-higher-N8",
+          "title": "N8 Exact calculations with fractions, decimals and percentages"
+        },
+        {
+          "id": "maths-higher-N9",
+          "title": "N9 Integer powers and roots"
+        },
+        {
+          "id": "maths-higher-N10",
+          "title": "N10 Fractional and negative indices"
+        },
+        {
+          "id": "maths-higher-N11",
+          "title": "N11 Estimate and approximate"
+        },
+        {
+          "id": "maths-higher-N12",
+          "title": "N12 Bounds and error intervals"
+        },
+        {
+          "id": "maths-higher-N13",
+          "title": "N13 Use calculators effectively"
+        },
+        {
+          "id": "maths-higher-N14",
+          "title": "N14 Apply number skills in financial contexts"
+        },
+        {
+          "id": "maths-higher-N15",
+          "title": "N15 Ratio and scale links in number problems"
+        },
+        {
+          "id": "maths-higher-N16",
+          "title": "N16 Recurring decimals and proof"
+        },
+        {
+          "id": "maths-higher-A1",
+          "title": "A1 Algebraic notation"
+        },
+        {
+          "id": "maths-higher-A2",
+          "title": "A2 Substitution and formulae"
+        },
+        {
+          "id": "maths-higher-A3",
+          "title": "A3 Algebraic terminology and expressions"
+        },
+        {
+          "id": "maths-higher-A4",
+          "title": "A4 Simplify and manipulate expressions"
+        },
+        {
+          "id": "maths-higher-A5",
+          "title": "A5 Expand and factorise"
+        },
+        {
+          "id": "maths-higher-A6",
+          "title": "A6 Algebraic fractions"
+        },
+        {
+          "id": "maths-higher-A7",
+          "title": "A7 Set up and solve linear equations"
+        },
+        {
+          "id": "maths-higher-A8",
+          "title": "A8 Linear inequalities"
+        },
+        {
+          "id": "maths-higher-A9",
+          "title": "A9 Sequences"
+        },
+        {
+          "id": "maths-higher-A10",
+          "title": "A10 Coordinates and straight-line graphs"
+        },
+        {
+          "id": "maths-higher-A11",
+          "title": "A11 Parallel and perpendicular lines"
+        },
+        {
+          "id": "maths-higher-A12",
+          "title": "A12 Quadratic graphs"
+        },
+        {
+          "id": "maths-higher-A13",
+          "title": "A13 Cubic and reciprocal graphs"
+        },
+        {
+          "id": "maths-higher-A14",
+          "title": "A14 Real-life graphs"
+        },
+        {
+          "id": "maths-higher-A15",
+          "title": "A15 Equation of a circle"
+        },
+        {
+          "id": "maths-higher-A16",
+          "title": "A16 Solve simultaneous equations"
+        },
+        {
+          "id": "maths-higher-A17",
+          "title": "A17 Solve quadratic equations"
+        },
+        {
+          "id": "maths-higher-A18",
+          "title": "A18 Complete the square and quadratic formula"
+        },
+        {
+          "id": "maths-higher-A19",
+          "title": "A19 Inequalities on graphs and regions"
+        },
+        {
+          "id": "maths-higher-A20",
+          "title": "A20 Iteration"
+        },
+        {
+          "id": "maths-higher-A21",
+          "title": "A21 Algebraic proof"
+        },
+        {
+          "id": "maths-higher-A22",
+          "title": "A22 Functions"
+        },
+        {
+          "id": "maths-higher-A23",
+          "title": "A23 Transformations of graphs"
+        },
+        {
+          "id": "maths-higher-A24",
+          "title": "A24 Area under graphs and gradient"
+        },
+        {
+          "id": "maths-higher-A25",
+          "title": "A25 Kinematics graphs"
+        },
+        {
+          "id": "maths-higher-R1",
+          "title": "R1 Use ratio notation"
+        },
+        {
+          "id": "maths-higher-R2",
+          "title": "R2 Divide in a given ratio"
+        },
+        {
+          "id": "maths-higher-R3",
+          "title": "R3 Use scale factors and maps"
+        },
+        {
+          "id": "maths-higher-R4",
+          "title": "R4 Fractions, ratios and percentages"
+        },
+        {
+          "id": "maths-higher-R5",
+          "title": "R5 Compound measures"
+        },
+        {
+          "id": "maths-higher-R6",
+          "title": "R6 Speed, density and pressure"
+        },
+        {
+          "id": "maths-higher-R7",
+          "title": "R7 Best value and unit pricing"
+        },
+        {
+          "id": "maths-higher-R8",
+          "title": "R8 Rates of change"
+        },
+        {
+          "id": "maths-higher-R9",
+          "title": "R9 Direct and inverse proportion"
+        },
+        {
+          "id": "maths-higher-R10",
+          "title": "R10 Growth and decay"
+        },
+        {
+          "id": "maths-higher-R11",
+          "title": "R11 Compound interest and repeated percentage change"
+        },
+        {
+          "id": "maths-higher-R12",
+          "title": "R12 Proportion graphs"
+        },
+        {
+          "id": "maths-higher-R13",
+          "title": "R13 Convert units"
+        },
+        {
+          "id": "maths-higher-R14",
+          "title": "R14 Similar shapes and proportional reasoning"
+        },
+        {
+          "id": "maths-higher-R15",
+          "title": "R15 Algebraic proportion"
+        },
+        {
+          "id": "maths-higher-R16",
+          "title": "R16 Gradient as rate of change"
+        },
+        {
+          "id": "maths-higher-G1",
+          "title": "G1 Properties of shapes"
+        },
+        {
+          "id": "maths-higher-G2",
+          "title": "G2 Constructions and loci"
+        },
+        {
+          "id": "maths-higher-G3",
+          "title": "G3 Bearings"
+        },
+        {
+          "id": "maths-higher-G4",
+          "title": "G4 Plans and elevations"
+        },
+        {
+          "id": "maths-higher-G5",
+          "title": "G5 Transformations"
+        },
+        {
+          "id": "maths-higher-G6",
+          "title": "G6 Angles"
+        },
+        {
+          "id": "maths-higher-G7",
+          "title": "G7 Circle theorems"
+        },
+        {
+          "id": "maths-higher-G8",
+          "title": "G8 Perimeter, area and volume"
+        },
+        {
+          "id": "maths-higher-G9",
+          "title": "G9 Pythagoras and trigonometry"
+        },
+        {
+          "id": "maths-higher-G10",
+          "title": "G10 Sine and cosine rules"
+        },
+        {
+          "id": "maths-higher-G11",
+          "title": "G11 Vectors"
+        },
+        {
+          "id": "maths-higher-G12",
+          "title": "G12 Congruence and similarity"
+        },
+        {
+          "id": "maths-higher-G13",
+          "title": "G13 Units and measures"
+        },
+        {
+          "id": "maths-higher-G14",
+          "title": "G14 Arcs and sectors"
+        },
+        {
+          "id": "maths-higher-G15",
+          "title": "G15 Surface area and volume of 3D shapes"
+        },
+        {
+          "id": "maths-higher-G16",
+          "title": "G16 Density and compound measures geometry"
+        },
+        {
+          "id": "maths-higher-G17",
+          "title": "G17 Coordinate geometry"
+        },
+        {
+          "id": "maths-higher-G18",
+          "title": "G18 Geometric proof"
+        },
+        {
+          "id": "maths-higher-G19",
+          "title": "G19 Transformations with vectors"
+        },
+        {
+          "id": "maths-higher-P1",
+          "title": "P1 Probability scale"
+        },
+        {
+          "id": "maths-higher-P2",
+          "title": "P2 Theoretical probability"
+        },
+        {
+          "id": "maths-higher-P3",
+          "title": "P3 Sample spaces"
+        },
+        {
+          "id": "maths-higher-P4",
+          "title": "P4 Mutually exclusive and exhaustive events"
+        },
+        {
+          "id": "maths-higher-P5",
+          "title": "P5 Experimental probability"
+        },
+        {
+          "id": "maths-higher-P6",
+          "title": "P6 Venn diagrams"
+        },
+        {
+          "id": "maths-higher-P7",
+          "title": "P7 Tree diagrams"
+        },
+        {
+          "id": "maths-higher-P8",
+          "title": "P8 Conditional probability"
+        },
+        {
+          "id": "maths-higher-P9",
+          "title": "P9 Independent and dependent events"
+        },
+        {
+          "id": "maths-higher-S1",
+          "title": "S1 Collect and represent data"
+        },
+        {
+          "id": "maths-higher-S2",
+          "title": "S2 Averages and range"
+        },
+        {
+          "id": "maths-higher-S3",
+          "title": "S3 Frequency tables"
+        },
+        {
+          "id": "maths-higher-S4",
+          "title": "S4 Scatter graphs and correlation"
+        },
+        {
+          "id": "maths-higher-S5",
+          "title": "S5 Cumulative frequency and box plots"
+        },
+        {
+          "id": "maths-higher-S6",
+          "title": "S6 Histograms"
+        }
+      ]
+    }
+  ]
+}
