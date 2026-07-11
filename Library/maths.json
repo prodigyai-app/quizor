@@ -1,0 +1,5173 @@
+{
+  "id": "maths",
+  "name": "Edexcel GCSE Maths Foundation",
+  "quizzes": [
+    {
+      "id": "maths-1-1",
+      "title": "1.1 Place Value, Ordering and Rounding",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What is 3.47 rounded to 1 decimal place?",
+          "options": [
+            "3.47",
+            "3.5",
+            "3.4",
+            "3.0"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is 6482 rounded to the nearest 100?",
+          "options": [
+            "6480",
+            "6400",
+            "6500",
+            "6000"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which of these numbers is the largest?",
+          "options": [
+            "0.45",
+            "0.099",
+            "0.32",
+            "0.5"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is 5.6789 rounded to 2 significant figures?",
+          "options": [
+            "5.7",
+            "5.6",
+            "5.68",
+            "6.0"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "In the number 3,482, the digit 4 represents 400.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "0.7 is greater than 0.65.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Using the standard rounding convention, rounding 2.5 to the nearest whole number gives 2.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Round 812 to the nearest 10.",
+          "acceptedAnswers": [
+            "810",
+            "eight hundred and ten"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Round 0.0847 to 2 significant figures.",
+          "acceptedAnswers": [
+            "0.085",
+            "0.0850"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Order these numbers from smallest to largest: 0.5, 0.65, 0.56, 0.6",
+          "acceptedAnswers": [
+            "0.5, 0.56, 0.6, 0.65",
+            "0.5,0.56,0.6,0.65"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-1-2",
+      "title": "1.2 Negative Numbers and the Four Operations",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate -3 + 7.",
+          "options": [
+            "-4",
+            "4",
+            "10",
+            "-10"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate -5 - 4.",
+          "options": [
+            "-1",
+            "9",
+            "-9",
+            "1"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate -6 × -3.",
+          "options": [
+            "-18",
+            "9",
+            "-9",
+            "18"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate 12 ÷ -4.",
+          "options": [
+            "-3",
+            "3",
+            "-48",
+            "48"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Adding two negative numbers always gives a negative result.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A negative number multiplied by a negative number gives a negative result.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "-8 is less than -3.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Calculate -15 + 9.",
+          "acceptedAnswers": [
+            "-6",
+            "negative 6"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Calculate -7 × 6.",
+          "acceptedAnswers": [
+            "-42",
+            "negative 42"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Order from smallest to largest: -5, 2, -1, 0",
+          "acceptedAnswers": [
+            "-5, -1, 0, 2",
+            "-5,-1,0,2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-1-3",
+      "title": "1.3 Factors, Multiples and Primes",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Which of these numbers is a factor of 12?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "9"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which of these numbers is prime?",
+          "options": [
+            "21",
+            "15",
+            "17",
+            "9"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the Lowest Common Multiple (LCM) of 4 and 6?",
+          "options": [
+            "10",
+            "24",
+            "2",
+            "12"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the Highest Common Factor (HCF) of 18 and 24?",
+          "options": [
+            "6",
+            "3",
+            "9",
+            "12"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "1 is a prime number.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Every even number greater than 2 is not prime.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The HCF of two numbers is always smaller than or equal to both numbers.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "List the first 5 prime numbers.",
+          "acceptedAnswers": [
+            "2, 3, 5, 7, 11",
+            "2,3,5,7,11"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the LCM of 8 and 12.",
+          "acceptedAnswers": [
+            "24",
+            "twenty-four"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the HCF of 30 and 45.",
+          "acceptedAnswers": [
+            "15",
+            "fifteen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-1-4",
+      "title": "1.4 Powers, Roots and Order of Operations (BIDMAS)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate 3² + 4.",
+          "options": [
+            "49",
+            "13",
+            "14",
+            "10"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate (2 + 3) × 4.",
+          "options": [
+            "14",
+            "9",
+            "20",
+            "24"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the square root of 81?",
+          "options": [
+            "7",
+            "8",
+            "10",
+            "9"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate 10 - 2 × 3.",
+          "options": [
+            "4",
+            "24",
+            "8",
+            "14"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "In BIDMAS, multiplication is always done before addition, unless brackets say otherwise.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The square of a negative number is always negative.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "2³ means 2 × 3.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Calculate 5² (5 squared).",
+          "acceptedAnswers": [
+            "25",
+            "twenty-five"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Calculate the cube root of 27.",
+          "acceptedAnswers": [
+            "3",
+            "three"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Calculate 4 + 3 × (6 - 2).",
+          "acceptedAnswers": [
+            "16",
+            "sixteen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-1-5",
+      "title": "1.5 Fractions: Simplifying, Ordering and Converting",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Simplify 8/12 to its simplest form.",
+          "options": [
+            "4/6",
+            "2/3",
+            "8/12",
+            "1/2"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which fraction is equivalent to 0.75?",
+          "options": [
+            "3/5",
+            "4/3",
+            "3/4",
+            "7/5"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Convert 3/8 to a decimal.",
+          "options": [
+            "0.38",
+            "0.83",
+            "0.325",
+            "0.375"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which of these fractions is the largest?",
+          "options": [
+            "3/4",
+            "1/2",
+            "2/5",
+            "1/3"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "5/10 simplifies to 1/2.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "To compare fractions with different denominators, you must first find a common denominator (or convert to decimals).",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "2/3 is greater than 3/4.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Simplify 15/20 to its simplest form.",
+          "acceptedAnswers": [
+            "3/4",
+            "0.75"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Convert 7/20 to a percentage.",
+          "acceptedAnswers": [
+            "35%",
+            "35"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Order these fractions from smallest to largest: 1/4, 1/2, 1/3",
+          "acceptedAnswers": [
+            "1/4, 1/3, 1/2",
+            "1/4,1/3,1/2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-1-6",
+      "title": "1.6 Adding and Subtracting Fractions",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate 1/4 + 1/2.",
+          "options": [
+            "2/6",
+            "3/4",
+            "1/6",
+            "1/2"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate 2/3 - 1/6.",
+          "options": [
+            "1/3",
+            "1/2",
+            "5/6",
+            "1/6"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate 1/3 + 1/4.",
+          "options": [
+            "2/7",
+            "1/12",
+            "5/12",
+            "7/12"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate 3½ - 1¼ (mixed numbers).",
+          "options": [
+            "2¼",
+            "2½",
+            "1¾",
+            "2"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "To add fractions with different denominators, you need to find a common denominator first.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "1/2 + 1/2 = 1/4.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "When subtracting mixed numbers, it can help to convert them to improper fractions first.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Calculate 3/5 + 1/5.",
+          "acceptedAnswers": [
+            "4/5",
+            "0.8"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Calculate 5/6 - 1/3.",
+          "acceptedAnswers": [
+            "1/2",
+            "0.5"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Calculate 2½ + 1⅓.",
+          "acceptedAnswers": [
+            "3⅚",
+            "23/6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-1-7",
+      "title": "1.7 Multiplying and Dividing Fractions",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate 2/3 × 3/4.",
+          "options": [
+            "5/12",
+            "1/2",
+            "6/7",
+            "3/4"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate 1/2 ÷ 1/4.",
+          "options": [
+            "8",
+            "1/8",
+            "2",
+            "4"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate 3/5 × 2/7.",
+          "options": [
+            "5/12",
+            "6/12",
+            "1/2",
+            "6/35"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate 2 ÷ 1/3.",
+          "options": [
+            "6",
+            "2/3",
+            "1/6",
+            "3"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "To divide by a fraction, you multiply by its reciprocal.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Multiplying two proper fractions (each less than 1) always gives a result larger than either fraction.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "The reciprocal of 3/4 is 4/3.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Calculate 3/4 × 1/2.",
+          "acceptedAnswers": [
+            "3/8",
+            "0.375"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Calculate 1/3 ÷ 2/5.",
+          "acceptedAnswers": [
+            "5/6",
+            "five sixths"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Calculate 4/5 × 5/8.",
+          "acceptedAnswers": [
+            "1/2",
+            "0.5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-1-8",
+      "title": "1.8 Decimals and Fraction-Decimal-Percentage Conversions",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Convert 0.6 to a fraction in its simplest form.",
+          "options": [
+            "6/10",
+            "3/5",
+            "2/3",
+            "3/4"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Convert 45% to a decimal.",
+          "options": [
+            "4.5",
+            "45",
+            "0.45",
+            "0.045"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Convert 1/8 to a percentage.",
+          "options": [
+            "18%",
+            "8%",
+            "80%",
+            "12.5%"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which decimal is equivalent to 3/4?",
+          "options": [
+            "0.75",
+            "0.34",
+            "0.43",
+            "1.33"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "0.5 is equivalent to 50%.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "1/3 as a decimal is exactly 0.3.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "To convert a percentage to a fraction, you write it over 100 and simplify.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Convert 0.125 to a fraction in its simplest form.",
+          "acceptedAnswers": [
+            "1/8",
+            "0.125"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Convert 7/8 to a percentage.",
+          "acceptedAnswers": [
+            "87.5%",
+            "87.5"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Convert 2/5 to a decimal.",
+          "acceptedAnswers": [
+            "0.4",
+            "0.40"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-1-9",
+      "title": "1.9 Estimation and Approximation",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Estimate 4.8 × 5.1 by rounding to the nearest whole number first.",
+          "options": [
+            "20",
+            "25",
+            "30",
+            "24"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Estimate 19.7 ÷ 4.1 by rounding first.",
+          "options": [
+            "4",
+            "6",
+            "5",
+            "10"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A recommended method for estimating calculations is to round each number to:",
+          "options": [
+            "the nearest 1000",
+            "the nearest whole pound",
+            "the nearest prime number",
+            "1 significant figure"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Estimate 203 × 48 by rounding to 1 significant figure.",
+          "options": [
+            "10000",
+            "9744",
+            "10500",
+            "9000"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Estimation is useful for checking whether a calculator answer is reasonable.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "When estimating, you should always round every number up, never down.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Rounding 6.5 kg to 1 significant figure gives 7 kg.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Estimate the value of 9.8 × 3.2 by rounding to the nearest whole number.",
+          "acceptedAnswers": [
+            "30",
+            "approximately 30"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Estimate 396 ÷ 21 by rounding each number to 1 significant figure.",
+          "acceptedAnswers": [
+            "20",
+            "approximately 20"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Round 7.482 to 1 significant figure.",
+          "acceptedAnswers": [
+            "7",
+            "seven"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-1-10",
+      "title": "1.10 Standard Form",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Write 45000 in standard form.",
+          "options": [
+            "45×10^3",
+            "4.5×10^4",
+            "4.5×10^3",
+            "0.45×10^5"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Write 0.00032 in standard form.",
+          "options": [
+            "3.2×10^4",
+            "32×10^-5",
+            "3.2×10^-4",
+            "0.32×10^-3"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is 3.6×10^3 as an ordinary number?",
+          "options": [
+            "360",
+            "36000",
+            "0.36",
+            "3600"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is 2×10^-2 as an ordinary number?",
+          "options": [
+            "0.02",
+            "200",
+            "0.2",
+            "2000"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "In standard form a×10^n, the value of a must satisfy 1 ≤ a < 10.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "45×10^3 is correctly written in standard form.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Standard form is useful for writing very large or very small numbers concisely.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Write 6,200,000 in standard form.",
+          "acceptedAnswers": [
+            "6.2×10^6",
+            "6.2 x 10^6"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Write 5.9×10^-3 as an ordinary number.",
+          "acceptedAnswers": [
+            "0.0059",
+            "0.00590"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Write 810,000 in standard form.",
+          "acceptedAnswers": [
+            "8.1×10^5",
+            "8.1 x 10^5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-1-11",
+      "title": "1.11 Percentages of Amounts and Percentage Change",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate 20% of 150.",
+          "options": [
+            "20",
+            "30",
+            "15",
+            "35"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A shirt costs £40 and is reduced by 25%. What is the sale price?",
+          "options": [
+            "£25",
+            "£35",
+            "£30",
+            "£10"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A price increases from £80 to £100. What is the percentage increase?",
+          "options": [
+            "20%",
+            "15%",
+            "30%",
+            "25%"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Calculate 15% of 60.",
+          "options": [
+            "9",
+            "15",
+            "6",
+            "12"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "To find 10% of an amount, you divide by 10.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Percentage change is calculated as (change ÷ original amount) × 100.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A 50% increase followed by a 50% decrease returns a value to its original amount.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Calculate 35% of 200.",
+          "acceptedAnswers": [
+            "70",
+            "seventy"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A laptop costs £500 and is reduced by 12%. What is the new price?",
+          "acceptedAnswers": [
+            "£440",
+            "440"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A number increases from 40 to 52. What is the percentage increase?",
+          "acceptedAnswers": [
+            "30%",
+            "30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-1-12",
+      "title": "1.12 Working with Percentages (Reverse, Increase and Decrease)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "After a 20% increase, a price is £60. What was the original price?",
+          "options": [
+            "£48",
+            "£50",
+            "£55",
+            "£45"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Increase £80 by 15% using a multiplier.",
+          "options": [
+            "£95",
+            "£88",
+            "£92",
+            "£85"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Decrease £120 by 30% using a multiplier.",
+          "options": [
+            "£90",
+            "£80",
+            "£96",
+            "£84"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What single multiplier would you use to decrease an amount by 8%?",
+          "options": [
+            "0.92",
+            "0.8",
+            "1.08",
+            "0.08"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "To increase an amount by 25%, you can multiply by 1.25.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "To find an original value before a percentage decrease, you should multiply the final value by the same percentage decrease multiplier.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "A multiplier of 1.1 represents a 10% increase.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "After a 10% discount, a coat costs £45. What was the original price?",
+          "acceptedAnswers": [
+            "£50",
+            "50"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the multiplier to increase an amount by 6%.",
+          "acceptedAnswers": [
+            "1.06",
+            "x1.06"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "£2000 is invested at 5% compound interest per year. What is the value after 2 years?",
+          "acceptedAnswers": [
+            "£2205",
+            "2205"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-2-1",
+      "title": "2.1 Algebraic Notation and Substitution",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "If a=3, what is the value of 2a+5?",
+          "options": [
+            "10",
+            "11",
+            "13",
+            "8"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Simplify 3 × x.",
+          "options": [
+            "x3",
+            "x/3",
+            "3x",
+            "3+x"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "If x=4 and y=2, find the value of 3x - y.",
+          "options": [
+            "14",
+            "6",
+            "8",
+            "10"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What does 2a² mean when a=3?",
+          "options": [
+            "2×3²=18",
+            "(2×3)²=36",
+            "2×3=6",
+            "3²×2²=36"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "In algebra, 5x means 5 × x.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "xy means x + y.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "If a=-2, then a² = 4.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "If p=5, find the value of 4p - 3.",
+          "acceptedAnswers": [
+            "17",
+            "seventeen"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "If x=2 and y=5, find the value of x² + y.",
+          "acceptedAnswers": [
+            "9",
+            "nine"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Simplify: a × a × a.",
+          "acceptedAnswers": [
+            "a^3",
+            "a cubed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-2-2",
+      "title": "2.2 Simplifying Expressions (Collecting Like Terms)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Simplify 3x + 5x.",
+          "options": [
+            "15x",
+            "8x",
+            "8x²",
+            "15"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Simplify 4a + 3b - 2a + b.",
+          "options": [
+            "2a+2b",
+            "6a+4b",
+            "2a+4b",
+            "2a+4"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Simplify 5y - 2y + 3y.",
+          "options": [
+            "10y",
+            "0",
+            "y",
+            "6y"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Simplify 3x² + 2x².",
+          "options": [
+            "5x²",
+            "5x⁴",
+            "6x²",
+            "5x"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "3x and 3y are like terms.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "4a + 2a simplifies to 6a.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "2x + 3 simplifies to 5x.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Simplify 7p + 2p - 3p.",
+          "acceptedAnswers": [
+            "6p",
+            "6 p"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Simplify 5m - 8m.",
+          "acceptedAnswers": [
+            "-3m",
+            "negative 3m"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Simplify 4x + 3y - x + 2y.",
+          "acceptedAnswers": [
+            "3x+5y",
+            "3x + 5y"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-2-3",
+      "title": "2.3 Expanding Brackets",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Expand 3(x + 4).",
+          "options": [
+            "3x+4",
+            "3x+12",
+            "x+12",
+            "3x+7"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Expand 2(3a - 5).",
+          "options": [
+            "6a-5",
+            "5a-10",
+            "6a-10",
+            "6a+10"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Expand and simplify 2(x+3) + 4.",
+          "options": [
+            "2x+7",
+            "2x+6",
+            "2x+13",
+            "2x+10"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Expand -3(x - 2).",
+          "options": [
+            "-3x+6",
+            "-3x-6",
+            "3x+6",
+            "-3x-2"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Expanding 5(y + 2) gives 5y + 10.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Expanding 4(x - 3) gives 4x - 3.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "When expanding a negative bracket like -2(x+3), both terms inside change sign.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Expand 6(2x + 1).",
+          "acceptedAnswers": [
+            "12x+6",
+            "12x + 6"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Expand and simplify 3(x+2) + 2(x+1).",
+          "acceptedAnswers": [
+            "5x+8",
+            "5x + 8"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Expand -4(2x - 3).",
+          "acceptedAnswers": [
+            "-8x+12",
+            "-8x + 12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-2-4",
+      "title": "2.4 Factorising Expressions",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Factorise 6x + 9.",
+          "options": [
+            "6(x+9)",
+            "3(2x+3)",
+            "3(2x+9)",
+            "9(x+6)"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Factorise 4a - 8.",
+          "options": [
+            "4(a+2)",
+            "8(a-4)",
+            "4(a-2)",
+            "2(a-8)"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Factorise x² + 5x.",
+          "options": [
+            "5(x+x)",
+            "x²(5)",
+            "x(5x)",
+            "x(x+5)"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Fully factorise 12y + 18.",
+          "options": [
+            "6(2y+3)",
+            "3(4y+6)",
+            "2(6y+9)",
+            "6(2y+9)"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Factorising is the reverse process of expanding brackets.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "5x + 10 fully factorises to 5(x+2).",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "x² + 3x factorises to x(x+3).",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Factorise 8x + 12.",
+          "acceptedAnswers": [
+            "4(2x+3)",
+            "4(2x + 3)"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Factorise x² - 7x.",
+          "acceptedAnswers": [
+            "x(x-7)",
+            "x(x - 7)"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Fully factorise 15a + 25.",
+          "acceptedAnswers": [
+            "5(3a+5)",
+            "5(3a + 5)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-2-5",
+      "title": "2.5 Solving Linear Equations",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Solve x + 7 = 12.",
+          "options": [
+            "19",
+            "5",
+            "7",
+            "-5"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Solve 3x = 18.",
+          "options": [
+            "15",
+            "21",
+            "6",
+            "54"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Solve 2x + 3 = 11.",
+          "options": [
+            "7",
+            "5.5",
+            "8",
+            "4"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Solve 5x - 4 = 16.",
+          "options": [
+            "4",
+            "3",
+            "5",
+            "12"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "To solve an equation, you must do the same operation to both sides.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The solution to x - 5 = 2 is x = -3.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "The solution to 4x = 20 is x = 5.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Solve 3x + 5 = 20.",
+          "acceptedAnswers": [
+            "x=5",
+            "5"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Solve 2(x + 3) = 16.",
+          "acceptedAnswers": [
+            "x=5",
+            "5"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Solve 7 - x = 2.",
+          "acceptedAnswers": [
+            "x=5",
+            "5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-2-6",
+      "title": "2.6 Solving Equations with Brackets and Fractions",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Solve 3(x + 2) = 21.",
+          "options": [
+            "7",
+            "5",
+            "9",
+            "4"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Solve x/2 + 3 = 7.",
+          "options": [
+            "4",
+            "2",
+            "8",
+            "14"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Solve 2(x - 1) = 3(x - 4).",
+          "options": [
+            "5",
+            "14",
+            "2",
+            "10"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Solve (x+3)/4 = 2.",
+          "options": [
+            "5",
+            "8",
+            "11",
+            "2"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "To solve an equation with fractions, one method is to multiply both sides by the denominator.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Solving 4(x-3) = 8 gives x = 2.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Expanding brackets before solving can make an equation easier to solve.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Solve 5(x - 2) = 25.",
+          "acceptedAnswers": [
+            "x=7",
+            "7"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Solve x/3 - 1 = 4.",
+          "acceptedAnswers": [
+            "x=15",
+            "15"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Solve 2(x+4) = 3(x+1).",
+          "acceptedAnswers": [
+            "x=5",
+            "5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-2-7",
+      "title": "2.7 Forming and Solving Equations from Words",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "I think of a number, double it and add 3. The result is 17. What is the number?",
+          "options": [
+            "10",
+            "7",
+            "8",
+            "14"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A rectangle has length (x+2) cm and width 4 cm. Its perimeter is 28 cm. What is x?",
+          "options": [
+            "10",
+            "6",
+            "8",
+            "12"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Three consecutive integers sum to 36. What is the smallest one?",
+          "options": [
+            "12",
+            "10",
+            "13",
+            "11"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A number increased by 5 and then doubled gives 26. What is the number?",
+          "options": [
+            "8",
+            "10.5",
+            "13",
+            "3"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Forming an equation from a word problem often starts by letting the unknown value equal a letter, e.g. x.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "'5 more than a number' is written algebraically as 5 - x.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "The perimeter of a rectangle with sides a and b is 2(a+b).",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "I think of a number, add 6 and multiply by 2. The result is 20. What is the number?",
+          "acceptedAnswers": [
+            "4",
+            "four"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A number tripled and then reduced by 4 equals 17. What is the number?",
+          "acceptedAnswers": [
+            "7",
+            "seven"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "The angles in a triangle are x, x+10 and x+20 degrees. Form and solve an equation to find x.",
+          "acceptedAnswers": [
+            "x=50",
+            "50"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-2-8",
+      "title": "2.8 Simultaneous Equations",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Solve simultaneously: x + y = 10, x - y = 4.",
+          "options": [
+            "x=3, y=7",
+            "x=7, y=3",
+            "x=5, y=5",
+            "x=6, y=4"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Solve simultaneously: 2x + y = 11, x + y = 7.",
+          "options": [
+            "x=3, y=4",
+            "x=5, y=2",
+            "x=4, y=3",
+            "x=2, y=5"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Solve simultaneously: 3x + 2y = 16, x = 4.",
+          "options": [
+            "y=4",
+            "y=6",
+            "y=0",
+            "y=2"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which method involves subtracting one equation from another to eliminate a variable?",
+          "options": [
+            "Elimination",
+            "Substitution",
+            "Trial and improvement",
+            "Factorisation"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Simultaneous equations have exactly one pair of values (x, y) that satisfy both equations (for a typical linear pair with different gradients).",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "To solve using substitution, you replace a variable in one equation with an expression from the other equation.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Simultaneous equations can be solved graphically by finding the point where two lines intersect.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Solve simultaneously: x + y = 8, x - y = 2.",
+          "acceptedAnswers": [
+            "x=5, y=3",
+            "x=5,y=3"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Solve simultaneously: 2x + y = 9, y = x + 3.",
+          "acceptedAnswers": [
+            "x=2, y=5",
+            "x=2,y=5"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Solve simultaneously: 3x + 2y = 12, x = 2.",
+          "acceptedAnswers": [
+            "y=3",
+            "3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-2-9",
+      "title": "2.9 Inequalities",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Solve x + 3 > 8.",
+          "options": [
+            "x<5",
+            "x>5",
+            "x>11",
+            "x>2"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Solve 2x ≤ 10.",
+          "options": [
+            "x≥5",
+            "x≤20",
+            "x≤5",
+            "x≤2"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which number line correctly shows x > 3?",
+          "options": [
+            "A closed circle at 3 with shading to the right",
+            "An open circle at 3 with shading to the left",
+            "A closed circle at 3 with shading to the left",
+            "An open circle at 3 with shading to the right"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Solve 3x - 2 < 10.",
+          "options": [
+            "x<4",
+            "x>4",
+            "x<12",
+            "x<2"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A closed (filled-in) circle on a number line is used for inequalities that include 'or equal to' (≤ or ≥).",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "When you multiply or divide both sides of an inequality by a negative number, you must reverse the inequality sign.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The inequality x ≥ 5 means x can equal 5.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Solve x - 4 ≥ 6.",
+          "acceptedAnswers": [
+            "x≥10",
+            "x >= 10"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Solve 5x < 30.",
+          "acceptedAnswers": [
+            "x<6",
+            "x < 6"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "List all the integer values that satisfy -2 < x ≤ 3.",
+          "acceptedAnswers": [
+            "-1, 0, 1, 2, 3",
+            "-1,0,1,2,3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-2-10",
+      "title": "2.10 Sequences (Linear, Term-to-Term and nth Term)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the next term in the sequence 3, 7, 11, 15, ...?",
+          "options": [
+            "18",
+            "19",
+            "20",
+            "17"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Find the nth term of the sequence 2, 5, 8, 11, ...",
+          "options": [
+            "3n+1",
+            "3n-2",
+            "3n-1",
+            "n+3"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Using the nth term rule 4n + 1, find the 10th term.",
+          "options": [
+            "40",
+            "45",
+            "39",
+            "41"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the term-to-term rule for the sequence 100, 90, 80, 70, ...?",
+          "options": [
+            "subtract 10",
+            "add 10",
+            "multiply by 0.9",
+            "divide by 10"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A sequence with a constant difference between terms is called an arithmetic (linear) sequence.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The sequence 1, 4, 9, 16, 25 is generated by squaring consecutive integers.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The nth term of the sequence 5, 8, 11, 14 is 3n + 2.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the nth term of the sequence 4, 9, 14, 19, ...",
+          "acceptedAnswers": [
+            "5n-1",
+            "5n - 1"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the 6th term of the sequence with nth term 2n².",
+          "acceptedAnswers": [
+            "72",
+            "seventy-two"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "The nth term of a sequence is 7n - 3. What is the 1st term?",
+          "acceptedAnswers": [
+            "4",
+            "four"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-2-11",
+      "title": "2.11 Coordinates and Straight-Line Graphs",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the gradient of the line y = 3x + 2?",
+          "options": [
+            "2",
+            "3",
+            "5",
+            "1/3"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the y-intercept of the line y = 5x - 4?",
+          "options": [
+            "5",
+            "4",
+            "-4",
+            "-5"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A line has gradient 2 and passes through (0,3). What is its equation?",
+          "options": [
+            "y=3x+2",
+            "y=2x-3",
+            "y=x+2",
+            "y=2x+3"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the gradient of a horizontal line?",
+          "options": [
+            "0",
+            "1",
+            "undefined",
+            "-1"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Parallel lines have the same gradient.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The equation y = mx + c represents a straight line, where m is the gradient and c is the y-intercept.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A vertical line has a gradient of 0.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the gradient of the line joining (1,2) and (3,6).",
+          "acceptedAnswers": [
+            "2",
+            "gradient = 2"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the equation of a line with gradient 4 passing through (0, -1).",
+          "acceptedAnswers": [
+            "y=4x-1",
+            "y = 4x - 1"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the midpoint of the coordinates (2,4) and (6,8)?",
+          "acceptedAnswers": [
+            "(4,6)",
+            "(4, 6)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-2-12",
+      "title": "2.12 Real-Life Graphs (Distance-Time, Conversion)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "On a distance-time graph, a horizontal line represents:",
+          "options": [
+            "The object is accelerating",
+            "The object is stationary",
+            "The object is moving at constant speed",
+            "The object is moving backwards"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "On a distance-time graph, the gradient represents:",
+          "options": [
+            "Acceleration",
+            "Time",
+            "Speed",
+            "Distance"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A conversion graph is used to convert between:",
+          "options": [
+            "Time only",
+            "Only temperature values",
+            "Negative numbers",
+            "Two different units or currencies"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A car travels at constant speed. What shape would its distance-time graph be?",
+          "options": [
+            "A straight line sloping upward",
+            "A curve",
+            "A horizontal line",
+            "A straight line sloping downward"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A steeper gradient on a distance-time graph represents a faster speed.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "On a distance-time graph, a downward-sloping line means the object is moving away from the starting point.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Real-life graphs can be used to convert between currencies, such as pounds and euros.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "On a distance-time graph, a journey takes 2 hours to travel 80 km at constant speed. What is the speed in km/h?",
+          "acceptedAnswers": [
+            "40 km/h",
+            "40"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What does a flat section on a distance-time graph represent?",
+          "acceptedAnswers": [
+            "the object is stationary",
+            "stationary/not moving"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A conversion graph shows that 5 miles is equivalent to 8 km. Using this, estimate how many km is equivalent to 10 miles.",
+          "acceptedAnswers": [
+            "16 km",
+            "16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-2-13",
+      "title": "2.13 Quadratic Expressions and Simple Quadratic Equations",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Expand (x+2)(x+3).",
+          "options": [
+            "x²+6x+5",
+            "x²+5x+6",
+            "x²+5x+5",
+            "x²+x+6"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Factorise x² + 7x + 12.",
+          "options": [
+            "(x+2)(x+6)",
+            "(x+1)(x+12)",
+            "(x+3)(x+4)",
+            "(x+4)(x+4)"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Solve x² = 25.",
+          "options": [
+            "x=5 only",
+            "x=25",
+            "x=-5 only",
+            "x=5 or x=-5"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Factorise x² - 9 (difference of two squares).",
+          "options": [
+            "(x+3)(x-3)",
+            "(x-3)(x-3)",
+            "(x+9)(x-9)",
+            "(x+3)(x+3)"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "x² - 9 is an example of a 'difference of two squares'.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The expression (x+1)(x+1) expands to x² + 2x + 1.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A quadratic expression always has a term with x³.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Expand (x-2)(x+5).",
+          "acceptedAnswers": [
+            "x²+3x-10",
+            "x^2+3x-10"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Factorise x² + 8x + 15.",
+          "acceptedAnswers": [
+            "(x+3)(x+5)",
+            "(x + 3)(x + 5)"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Solve x² - 16 = 0.",
+          "acceptedAnswers": [
+            "x=4 or x=-4",
+            "x=±4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-3-1",
+      "title": "3.1 Ratio Notation and Simplifying Ratios",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Simplify the ratio 8:12.",
+          "options": [
+            "4:6",
+            "2:3",
+            "8:12",
+            "1:2"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Simplify 15:25.",
+          "options": [
+            "5:3",
+            "15:25",
+            "3:5",
+            "1:2"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Write the ratio 500g : 2kg in its simplest form (same units).",
+          "options": [
+            "1:2",
+            "4:1",
+            "2:1",
+            "1:4"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A ratio of 3:4 means for every 3 parts of one quantity, there are how many parts of the other?",
+          "options": [
+            "4",
+            "3",
+            "7",
+            "12"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "The ratio 1:2 is equivalent to 2:4.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Ratios must always be written using the same units before simplifying.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The ratio 6:9 simplifies to 3:4.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Simplify the ratio 20:35.",
+          "acceptedAnswers": [
+            "4:7",
+            "4 : 7"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Write 250ml:1 litre as a simplified ratio.",
+          "acceptedAnswers": [
+            "1:4",
+            "1 : 4"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Simplify the ratio 12:18:24.",
+          "acceptedAnswers": [
+            "2:3:4",
+            "2 : 3 : 4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-3-2",
+      "title": "3.2 Sharing in a Given Ratio",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Share £60 in the ratio 1:2.",
+          "options": [
+            "£30 and £30",
+            "£20 and £40",
+            "£10 and £50",
+            "£25 and £35"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Share 40 sweets in the ratio 3:5.",
+          "options": [
+            "20 and 20",
+            "10 and 30",
+            "15 and 25",
+            "18 and 22"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Share £90 in the ratio 2:3:4.",
+          "options": [
+            "£30, £30, £30",
+            "£10, £30, £50",
+            "£18, £27, £45",
+            "£20, £30, £40"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A sum of money is shared in the ratio 1:4. If the smaller share is £12, what is the total sum?",
+          "options": [
+            "£60",
+            "£48",
+            "£72",
+            "£36"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "To share an amount in a given ratio, you first find the total number of parts.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Sharing £100 in the ratio 1:1 means each person gets £50.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "If a ratio is 2:3, the first share will always be smaller than the second.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Share £48 in the ratio 1:3.",
+          "acceptedAnswers": [
+            "£12 and £36",
+            "12 and 36"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Share 72 marbles in the ratio 4:5.",
+          "acceptedAnswers": [
+            "32 and 40",
+            "32, 40"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A sum is shared in the ratio 3:7. The larger share is £70. What is the total sum?",
+          "acceptedAnswers": [
+            "£100",
+            "100"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-3-3",
+      "title": "3.3 Ratio and Proportion Problems (incl. Best Buys)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "A recipe for 4 people needs 200g of flour. How much flour is needed for 6 people?",
+          "options": [
+            "250",
+            "300",
+            "350",
+            "240"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which is the better buy: 500g of rice for £2.00, or 750g of rice for £2.70?",
+          "options": [
+            "500g for £2.00",
+            "They are the same value",
+            "750g for £2.70",
+            "Cannot be determined"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A map has a scale of 1:50,000. A distance on the map is 4cm. What is the real distance in km?",
+          "options": [
+            "20km",
+            "200km",
+            "0.2km",
+            "2km"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "If 3 pens cost £2.40, how much do 5 pens cost (at the same rate)?",
+          "options": [
+            "£4.00",
+            "£3.60",
+            "£4.80",
+            "£3.20"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "To find the better value buy, you can compare the cost per unit (e.g. per 100g or per item).",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Direct proportion means as one quantity increases, the other decreases at the same rate.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "If y is directly proportional to x, doubling x will double y.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "5 identical books cost £22.50 in total. Find the cost of 8 books.",
+          "acceptedAnswers": [
+            "£36.00",
+            "36"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A map scale is 1:25,000. A real distance is 5km. How long is this on the map, in cm?",
+          "acceptedAnswers": [
+            "20cm",
+            "20 cm"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "8 workers can build a wall in 6 days. How many days would it take 12 workers, working at the same rate?",
+          "acceptedAnswers": [
+            "4 days",
+            "4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-3-4",
+      "title": "3.4 Scale Diagrams and Maps",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "A scale drawing uses a scale of 1cm : 5m. If a room measures 4cm on the drawing, what is its real length?",
+          "options": [
+            "9",
+            "20",
+            "25",
+            "4"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "On a scale drawing with scale 1:100, a length of 3cm represents a real length of:",
+          "options": [
+            "30m",
+            "300m",
+            "3m",
+            "0.3m"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A scale of 1:20000 means 1cm on the map represents:",
+          "options": [
+            "20000m in real life",
+            "20000km in real life",
+            "2000cm in real life",
+            "20000cm (200m) in real life"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A scale factor greater than 1 in an enlargement means the shape:",
+          "options": [
+            "Gets bigger",
+            "Gets smaller",
+            "Stays the same size",
+            "Is reflected"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Scale drawings must be mathematically similar to the real object, just a different size.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A scale of 1:1 means the drawing is the same size as the real object.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "On a map with scale 1:10,000, 1cm represents 10,000km.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A scale drawing has a scale of 1cm:2m. A wall is drawn as 6cm long. What is the real length?",
+          "acceptedAnswers": [
+            "12m",
+            "12"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A real distance of 15km is shown as 3cm on a map. What is the scale, in the form 1:n?",
+          "acceptedAnswers": [
+            "1:500,000",
+            "1:500000"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A model car is built at a scale of 1:24. If the real car is 4.8m long, how long is the model, in cm?",
+          "acceptedAnswers": [
+            "20cm",
+            "20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-3-5",
+      "title": "3.5 Direct Proportion",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "If y is directly proportional to x, and y=10 when x=2, find y when x=5.",
+          "options": [
+            "20",
+            "25",
+            "15",
+            "50"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which graph shape represents direct proportion between two variables?",
+          "options": [
+            "A curve",
+            "A horizontal line",
+            "A straight line through the origin",
+            "A straight line not through the origin"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "If 4 identical items cost £12, using direct proportion, how much do 7 items cost?",
+          "options": [
+            "£18",
+            "£24",
+            "£16",
+            "£21"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In the equation y = kx, what does k represent?",
+          "options": [
+            "The constant of proportionality",
+            "The gradient of a curve",
+            "The y-intercept",
+            "The value of x"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "In direct proportion, if one quantity doubles, the other quantity also doubles.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A graph of direct proportion always passes through the origin (0,0).",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "If y is directly proportional to x, then y/x is always the same constant value.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "y is directly proportional to x. When x=3, y=12. Find the constant of proportionality, k.",
+          "acceptedAnswers": [
+            "4",
+            "k=4"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Using y=5x, find y when x=8.",
+          "acceptedAnswers": [
+            "40",
+            "y=40"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "6 identical chocolate bars cost £4.50. How much would 10 bars cost, assuming direct proportion?",
+          "acceptedAnswers": [
+            "£7.50",
+            "7.50"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-3-6",
+      "title": "3.6 Compound Measures (Speed, Density, Pressure)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation for speed is:",
+          "options": [
+            "speed = distance × time",
+            "speed = distance ÷ time",
+            "speed = time ÷ distance",
+            "speed = distance + time"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A car travels 150 miles in 3 hours. What is its average speed?",
+          "options": [
+            "45",
+            "55",
+            "50",
+            "100"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The equation for density is:",
+          "options": [
+            "density = volume ÷ mass",
+            "density = mass × volume",
+            "density = mass - volume",
+            "density = mass ÷ volume"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "An object has a mass of 40kg and a volume of 5m³. What is its density?",
+          "options": [
+            "8 kg/m³",
+            "5 kg/m³",
+            "45 kg/m³",
+            "200 kg/m³"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Pressure is calculated using the equation pressure = force ÷ area.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Speed, density and pressure are all examples of compound measures, since they combine two different units.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "If a journey takes 4 hours at 60mph, the total distance travelled is 200 miles.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A cyclist travels 24km in 2 hours. Calculate their average speed in km/h.",
+          "acceptedAnswers": [
+            "12 km/h",
+            "12"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A block has a mass of 100g and volume of 25cm³. Calculate its density.",
+          "acceptedAnswers": [
+            "4 g/cm³",
+            "4"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A force of 20N acts on an area of 4m². Calculate the pressure.",
+          "acceptedAnswers": [
+            "5 N/m²",
+            "5 Pa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-3-7",
+      "title": "3.7 Converting Units (Metric and Time)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "How many centimetres are in 3.5 metres?",
+          "options": [
+            "35",
+            "350",
+            "3500",
+            "0.35"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "How many grams are in 2.4 kilograms?",
+          "options": [
+            "240",
+            "24",
+            "2400",
+            "24000"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "How many millilitres are in 1.5 litres?",
+          "options": [
+            "150",
+            "15000",
+            "15",
+            "1500"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "How many minutes are in 2.5 hours?",
+          "options": [
+            "150",
+            "125",
+            "175",
+            "250"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "There are 1000 metres in a kilometre.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "There are 100 minutes in an hour.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "To convert from cm² to m², you divide by 10,000.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Convert 4500 metres into kilometres.",
+          "acceptedAnswers": [
+            "4.5 km",
+            "4.5"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Convert 3 hours 15 minutes into minutes.",
+          "acceptedAnswers": [
+            "195 minutes",
+            "195"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Convert 2.5 litres into millilitres.",
+          "acceptedAnswers": [
+            "2500 ml",
+            "2500"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-3-8",
+      "title": "3.8 Growth, Decay and Compound Interest",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "£1000 is invested at 4% compound interest per year. What is the value after 2 years?",
+          "options": [
+            "£1080.00",
+            "£1081.60",
+            "£1040.00",
+            "£1082.40"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A car worth £15000 depreciates by 10% each year. What is its value after 1 year?",
+          "options": [
+            "£14,000",
+            "£13,000",
+            "£13,500",
+            "£14,500"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which multiplier would you use for a repeated 8% decrease over several years?",
+          "options": [
+            "1.08 raised to the power of the number of years",
+            "0.08 multiplied by the number of years",
+            "0.92 multiplied by the number of years",
+            "0.92 raised to the power of the number of years"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A population of bacteria grows by 20% every hour, starting at 100. What is the population after 2 hours?",
+          "options": [
+            "144",
+            "140",
+            "120",
+            "240"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Compound interest is calculated on the original amount plus any interest already earned.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Simple interest and compound interest give the same result over multiple years.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Depreciation is an example of exponential decay, where a value decreases by the same percentage each period.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "£500 is invested at 3% compound interest for 2 years. Find the total value.",
+          "acceptedAnswers": [
+            "£530.45",
+            "530.45"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A car worth £20,000 depreciates by 15% in its first year. What is its value after 1 year?",
+          "acceptedAnswers": [
+            "£17,000",
+            "17000"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A quantity of 200 grows by 10% each year. What is the value after 2 years?",
+          "acceptedAnswers": [
+            "242",
+            "242.0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-4-1",
+      "title": "4.1 Properties of 2D Shapes",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "How many sides does a hexagon have?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the sum of the interior angles of a quadrilateral?",
+          "options": [
+            "180°",
+            "270°",
+            "360°",
+            "540°"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which of these is a property of a rhombus?",
+          "options": [
+            "All angles are 90°",
+            "Only one pair of parallel sides",
+            "Diagonals are equal length",
+            "All sides are equal length"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A regular polygon has all sides and angles:",
+          "options": [
+            "Equal",
+            "Different",
+            "Right angles only",
+            "Curved"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A square is a special type of rectangle where all sides are equal.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A parallelogram has two pairs of parallel sides.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "All quadrilaterals have four right angles.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name a quadrilateral with exactly one pair of parallel sides.",
+          "acceptedAnswers": [
+            "trapezium",
+            "a trapezium"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "How many sides does an octagon have?",
+          "acceptedAnswers": [
+            "8",
+            "eight"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the sum of the interior angles of a pentagon?",
+          "acceptedAnswers": [
+            "540°",
+            "540"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-4-2",
+      "title": "4.2 Angles in Parallel Lines and Polygons",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Angles on a straight line add up to:",
+          "options": [
+            "90°",
+            "180°",
+            "270°",
+            "360°"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Angles around a point add up to:",
+          "options": [
+            "180°",
+            "270°",
+            "360°",
+            "90°"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Alternate angles between parallel lines are:",
+          "options": [
+            "Supplementary (add to 180°)",
+            "Always 90°",
+            "Always different",
+            "Equal"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Corresponding angles between parallel lines are:",
+          "options": [
+            "Equal",
+            "Supplementary",
+            "Complementary",
+            "Always obtuse"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Co-interior (allied) angles between parallel lines add up to 180°.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Vertically opposite angles are always equal.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The exterior angle of a regular polygon with n sides is 360°/n.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Two angles on a straight line are x and 70°. Find x.",
+          "acceptedAnswers": [
+            "110°",
+            "110"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the size of each exterior angle of a regular hexagon (6 sides).",
+          "acceptedAnswers": [
+            "60°",
+            "60"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the size of each interior angle of a regular pentagon.",
+          "acceptedAnswers": [
+            "108°",
+            "108"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-4-3",
+      "title": "4.3 Angles in Triangles and Quadrilaterals",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The angles in a triangle add up to:",
+          "options": [
+            "360°",
+            "180°",
+            "90°",
+            "270°"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In an isosceles triangle, how many angles are equal?",
+          "options": [
+            "3",
+            "1",
+            "2",
+            "0"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A triangle has angles 50° and 60°. What is the third angle?",
+          "options": [
+            "80°",
+            "60°",
+            "50°",
+            "70°"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What type of triangle has all three sides and angles equal?",
+          "options": [
+            "Equilateral",
+            "Isosceles",
+            "Scalene",
+            "Right-angled"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "The angles in any quadrilateral add up to 360°.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "An exterior angle of a triangle equals the sum of the two opposite interior angles.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A scalene triangle has two equal sides.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A quadrilateral has angles 90°, 90°, 100° and x. Find x.",
+          "acceptedAnswers": [
+            "80°",
+            "80"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "An isosceles triangle has a base angle of 65°. What is the size of the third angle (the apex)?",
+          "acceptedAnswers": [
+            "50°",
+            "50"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the missing angle in a triangle with angles 45° and 95°.",
+          "acceptedAnswers": [
+            "40°",
+            "40"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-4-4",
+      "title": "4.4 Perimeter and Area of 2D Shapes",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The formula for the area of a rectangle is:",
+          "options": [
+            "2(length + width)",
+            "length × width",
+            "length + width",
+            "length ÷ width"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The formula for the area of a triangle is:",
+          "options": [
+            "base × height",
+            "2 × base × height",
+            "1/2 × base × height",
+            "base + height"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A rectangle has length 8cm and width 5cm. Find its perimeter.",
+          "options": [
+            "40",
+            "13",
+            "20",
+            "26"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A triangle has a base of 10cm and a height of 6cm. Find its area.",
+          "options": [
+            "30",
+            "60",
+            "16",
+            "20"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "The area of a parallelogram is base × height (the perpendicular height).",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Perimeter is measured in square units, like cm².",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "The area of a trapezium is 1/2 × (sum of parallel sides) × height.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the area of a rectangle with length 12cm and width 7cm.",
+          "acceptedAnswers": [
+            "84 cm²",
+            "84"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A trapezium has parallel sides of 6cm and 10cm and a height of 4cm. Find its area.",
+          "acceptedAnswers": [
+            "32 cm²",
+            "32"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the perimeter of a square with side length 9cm.",
+          "acceptedAnswers": [
+            "36cm",
+            "36"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-4-5",
+      "title": "4.5 Circles: Circumference and Area",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The formula for the circumference of a circle is:",
+          "options": [
+            "πr²",
+            "πd (or 2πr)",
+            "2πd",
+            "πr"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The formula for the area of a circle is:",
+          "options": [
+            "2πr",
+            "πd",
+            "πr²",
+            "πr"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A circle has a radius of 5cm. Find its circumference (use π ≈ 3.14), to 1 decimal place.",
+          "options": [
+            "15.7",
+            "78.5",
+            "25",
+            "31.4"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A circle has a diameter of 10cm. Find its area (use π ≈ 3.14), to 1 decimal place.",
+          "options": [
+            "78.5",
+            "31.4",
+            "157",
+            "50"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "The diameter of a circle is twice the radius.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The formula for the area of a circle uses the diameter directly, not the radius.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "π (pi) is approximately equal to 3.14.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the circumference of a circle with radius 7cm, using π ≈ 3.14 (1 dp).",
+          "acceptedAnswers": [
+            "44.0cm",
+            "44cm"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the area of a circle with radius 4cm, using π ≈ 3.14 (1dp).",
+          "acceptedAnswers": [
+            "50.2 cm²",
+            "50.2"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A circle has a circumference of 62.8cm. Find its radius, using π≈3.14.",
+          "acceptedAnswers": [
+            "10cm",
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-4-6",
+      "title": "4.6 3D Shapes, Surface Area and Volume",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The formula for the volume of a cuboid is:",
+          "options": [
+            "2(length+width+height)",
+            "length × width × height",
+            "length × width",
+            "length + width + height"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "How many faces does a cube have?",
+          "options": [
+            "4",
+            "8",
+            "6",
+            "12"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The volume of a triangular prism is found by:",
+          "options": [
+            "1/2 × base × height × length",
+            "length × width × height",
+            "area of triangle + length",
+            "area of cross-section × length"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A cuboid has dimensions 4cm × 3cm × 5cm. Find its volume.",
+          "options": [
+            "60",
+            "12",
+            "47",
+            "120"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "The volume of any prism is the area of its cross-section multiplied by its length.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A cylinder has 2 flat faces and 1 curved face.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Surface area is measured in cubic units, like cm³.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the volume of a cube with side length 6cm.",
+          "acceptedAnswers": [
+            "216 cm³",
+            "216"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A cuboid has volume 120cm³, length 6cm and width 4cm. Find its height.",
+          "acceptedAnswers": [
+            "5cm",
+            "5"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the total surface area of a cube with side length 4cm.",
+          "acceptedAnswers": [
+            "96 cm²",
+            "96"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-4-7",
+      "title": "4.7 Pythagoras' Theorem",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Pythagoras' theorem states that, for a right-angled triangle:",
+          "options": [
+            "a + b = c",
+            "a² + b² = c² (c is the hypotenuse)",
+            "a² - b² = c²",
+            "a × b = c²"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A right-angled triangle has legs of 3cm and 4cm. Find the hypotenuse.",
+          "options": [
+            "7",
+            "6",
+            "5",
+            "25"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A right-angled triangle has a hypotenuse of 13cm and one leg of 5cm. Find the other leg.",
+          "options": [
+            "18",
+            "8",
+            "144",
+            "12"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Pythagoras' theorem can only be used on which type of triangle?",
+          "options": [
+            "Right-angled triangles",
+            "Equilateral triangles",
+            "Any triangle",
+            "Isosceles triangles only"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "In Pythagoras' theorem, c always represents the side opposite the right angle (the hypotenuse), and is the longest side.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Pythagoras' theorem can be used to find the length of any side in any triangle.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "A triangle with sides 6, 8, and 10 is a right-angled triangle.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A right-angled triangle has legs 6cm and 8cm. Find the hypotenuse.",
+          "acceptedAnswers": [
+            "10cm",
+            "10"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A ladder (hypotenuse) of length 10m leans against a wall, reaching 8m up the wall. How far is the base of the ladder from the wall?",
+          "acceptedAnswers": [
+            "6m",
+            "6"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the length of the diagonal of a rectangle with sides 5cm and 12cm.",
+          "acceptedAnswers": [
+            "13cm",
+            "13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-4-8",
+      "title": "4.8 Trigonometry (SOH CAH TOA)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "In a right-angled triangle, sin(θ) = ",
+          "options": [
+            "adjacent/hypotenuse",
+            "opposite/hypotenuse",
+            "opposite/adjacent",
+            "hypotenuse/opposite"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In a right-angled triangle, cos(θ) = ",
+          "options": [
+            "opposite/hypotenuse",
+            "opposite/adjacent",
+            "adjacent/hypotenuse",
+            "hypotenuse/adjacent"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In a right-angled triangle, tan(θ) = ",
+          "options": [
+            "adjacent/hypotenuse",
+            "opposite/hypotenuse",
+            "hypotenuse/opposite",
+            "opposite/adjacent"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A right-angled triangle has an opposite side of 6cm and hypotenuse of 10cm. Find sin(θ).",
+          "options": [
+            "0.6",
+            "0.4",
+            "1.67",
+            "0.36"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "SOH CAH TOA is a mnemonic to help remember the three trigonometric ratios.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The hypotenuse is always the shortest side of a right-angled triangle.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Trigonometry can be used to find missing angles as well as missing sides in right-angled triangles.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A right-angled triangle has an adjacent side of 8cm and hypotenuse of 10cm. Calculate cos(θ).",
+          "acceptedAnswers": [
+            "0.8",
+            "cos θ = 0.8"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A right-angled triangle has opposite side 5cm and adjacent side 12cm. Calculate tan(θ) as a decimal (2 dp).",
+          "acceptedAnswers": [
+            "0.42",
+            "0.417"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Using tan(θ) = 1, find the angle θ.",
+          "acceptedAnswers": [
+            "45°",
+            "45"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-4-9",
+      "title": "4.9 Transformations: Reflection and Rotation",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "When a shape is reflected in the x-axis, what happens to its y-coordinates?",
+          "options": [
+            "They stay the same",
+            "They become negative (change sign)",
+            "They double",
+            "They become zero"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A rotation is described using:",
+          "options": [
+            "Only a distance",
+            "A mirror line only",
+            "A centre of rotation, an angle, and a direction",
+            "A scale factor only"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Reflecting the point (3,4) in the y-axis gives:",
+          "options": [
+            "(3,-4)",
+            "(-3,-4)",
+            "(4,3)",
+            "(-3,4)"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A 180° rotation about the origin transforms (2,5) into:",
+          "options": [
+            "(-2,-5)",
+            "(2,-5)",
+            "(-2,5)",
+            "(5,2)"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A reflection produces a mirror image of the original shape.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The size of a shape changes after a rotation.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "A rotation of 360° returns a shape to its original position and orientation.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Reflect the point (5,2) in the x-axis.",
+          "acceptedAnswers": [
+            "(5,-2)",
+            "(5, -2)"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What three pieces of information are needed to fully describe a rotation?",
+          "acceptedAnswers": [
+            "centre, angle and direction",
+            "centre of rotation, angle of rotation, direction"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Rotate the point (1,3) by 90° clockwise about the origin.",
+          "acceptedAnswers": [
+            "(3,-1)",
+            "(3, -1)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-4-10",
+      "title": "4.10 Transformations: Translation and Enlargement",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "A translation is described using:",
+          "options": [
+            "An angle of rotation",
+            "A column vector",
+            "A mirror line",
+            "A scale factor"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "An enlargement with scale factor 2 makes a shape:",
+          "options": [
+            "Twice as small",
+            "The same size",
+            "Twice as big in each dimension",
+            "Rotated by 90°"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The point (2,3) is translated by the vector (4,-1). What is the new point?",
+          "options": [
+            "(6,4)",
+            "(-2,4)",
+            "(2,2)",
+            "(6,2)"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "An enlargement with scale factor 0.5 makes a shape:",
+          "options": [
+            "Half the size",
+            "Twice the size",
+            "The same size",
+            "Negative size"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A translation changes the size or orientation of a shape.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "An enlargement requires a scale factor and a centre of enlargement.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A scale factor between 0 and 1 produces a smaller (reduced) image.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "The point (1,1) is translated by the vector (3,2). What is the new point?",
+          "acceptedAnswers": [
+            "(4,3)",
+            "(4, 3)"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A shape is enlarged by scale factor 3. If the original side length is 5cm, what is the new side length?",
+          "acceptedAnswers": [
+            "15cm",
+            "15"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is needed, in addition to a scale factor, to fully describe an enlargement?",
+          "acceptedAnswers": [
+            "centre of enlargement",
+            "the centre of enlargement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-4-11",
+      "title": "4.11 Similarity and Congruence",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Two shapes are congruent if they are:",
+          "options": [
+            "The same shape but different size",
+            "Exactly the same shape and size",
+            "Different shapes but same size",
+            "Rotated versions of each other only"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Two shapes are similar if they are:",
+          "options": [
+            "Exactly identical in every way",
+            "Different shapes entirely",
+            "The same shape but not necessarily the same size",
+            "Only reflections of each other"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A shape is enlarged by scale factor 3. The new shape is:",
+          "options": [
+            "Congruent to the original",
+            "Neither similar nor congruent",
+            "A rotation of the original",
+            "Similar to the original"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Congruent triangles have:",
+          "options": [
+            "Equal corresponding sides and equal corresponding angles",
+            "Equal angles but different side lengths",
+            "Equal sides but different angles",
+            "No matching properties"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "All congruent shapes are also similar to each other.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "All similar shapes are also congruent.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "SSS (side-side-side) is one way to prove two triangles are congruent.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Two similar rectangles have a scale factor of 2 between them. If the smaller rectangle has a width of 4cm, what is the width of the larger rectangle?",
+          "acceptedAnswers": [
+            "8cm",
+            "8"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Name one condition that can be used to prove two triangles are congruent (e.g. SSS, SAS, ASA, RHS).",
+          "acceptedAnswers": [
+            "SSS",
+            "SAS",
+            "ASA",
+            "RHS"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Two similar triangles have corresponding sides in the ratio 1:4. If the smaller triangle has a side of 3cm, find the corresponding side on the larger triangle.",
+          "acceptedAnswers": [
+            "12cm",
+            "12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-4-12",
+      "title": "4.12 Constructions, Loci and Bearings",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "A bearing is always measured:",
+          "options": [
+            "Anticlockwise from north",
+            "Clockwise from north, as a 3-digit number",
+            "Clockwise from south",
+            "From the nearest compass point only"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A locus is defined as:",
+          "options": [
+            "A single fixed point",
+            "A straight line only",
+            "A set of points that satisfy a given rule or condition",
+            "A type of angle"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "To construct the perpendicular bisector of a line, you need:",
+          "options": [
+            "A protractor only",
+            "A set square only",
+            "A calculator",
+            "A pair of compasses and a ruler"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The locus of points equidistant from two fixed points is:",
+          "options": [
+            "The perpendicular bisector of the line joining them",
+            "A circle around one point",
+            "A straight line through both points",
+            "An angle bisector"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Bearings are always given as three-figure numbers, e.g. 065°.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The locus of points a fixed distance from a single point is a circle.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "An angle bisector divides an angle into two equal parts.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A ship travels on a bearing of 045°. What compass direction is this closest to?",
+          "acceptedAnswers": [
+            "north-east",
+            "northeast"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What construction tool, along with a ruler, is typically used to bisect an angle accurately?",
+          "acceptedAnswers": [
+            "compasses",
+            "a pair of compasses"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A bearing of 270° corresponds to which compass direction?",
+          "acceptedAnswers": [
+            "west",
+            "due west"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-4-13",
+      "title": "4.13 Vectors and Translations (Column Vector Notation)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "A column vector (3, -2) describes a movement of:",
+          "options": [
+            "3 units left and 2 units up",
+            "3 units right and 2 units down",
+            "2 units right and 3 units down",
+            "3 units up and 2 units right"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Adding the vectors (2,3) and (1,-4) gives:",
+          "options": [
+            "(1,7)",
+            "(3,7)",
+            "(3,-1)",
+            "(2,-4)"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The vector (0,5) represents:",
+          "options": [
+            "A movement of 5 units right",
+            "No movement at all",
+            "A movement of 5 units downward",
+            "A movement of 5 units directly upward"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Multiplying the vector (2,3) by 2 gives:",
+          "options": [
+            "(4,6)",
+            "(2,6)",
+            "(4,3)",
+            "(2,3)"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A column vector has a top number for horizontal movement and a bottom number for vertical movement.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A negative number in a column vector's bottom position means the movement is upward.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Translating a shape using a vector does not change its size or orientation.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Write the column vector that describes a movement of 4 units left and 3 units up.",
+          "acceptedAnswers": [
+            "(-4,3)",
+            "(-4, 3)"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Add the vectors (5,-1) and (-2,3).",
+          "acceptedAnswers": [
+            "(3,2)",
+            "(3, 2)"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the vector that reverses (describes the opposite movement to) the vector (4,-6)?",
+          "acceptedAnswers": [
+            "(-4,6)",
+            "(-4, 6)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-5-1",
+      "title": "5.1 Basic Probability and the Probability Scale",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Probability values always lie between:",
+          "options": [
+            "−1 and 1",
+            "0 and 1",
+            "0 and 100",
+            "1 and 10"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A probability of 0 means an event is:",
+          "options": [
+            "Certain",
+            "Very likely",
+            "Impossible",
+            "50/50"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A probability of 1 means an event is:",
+          "options": [
+            "Impossible",
+            "Unlikely",
+            "50/50",
+            "Certain"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A fair coin is flipped. What is the probability of getting heads?",
+          "options": [
+            "1/2",
+            "1/4",
+            "1",
+            "0"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Probabilities can be expressed as fractions, decimals, or percentages.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The probability of an event NOT happening is 1 minus the probability of it happening.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A probability of 0.5 means an event is impossible.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A fair six-sided dice is rolled. What is the probability of rolling a 4?",
+          "acceptedAnswers": [
+            "1/6",
+            "0.167"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "The probability of rain tomorrow is 0.3. What is the probability it does NOT rain?",
+          "acceptedAnswers": [
+            "0.7",
+            "70%"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A bag contains only red and blue balls. The probability of picking red is 0.65. What is the probability of picking blue?",
+          "acceptedAnswers": [
+            "0.35",
+            "35%"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-5-2",
+      "title": "5.2 Listing Outcomes and Sample Space Diagrams",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "How many possible outcomes are there when flipping a coin and rolling a six-sided dice together?",
+          "options": [
+            "8",
+            "12",
+            "6",
+            "36"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A sample space diagram is used to show:",
+          "options": [
+            "Only the favourable outcomes",
+            "The probability of a single event",
+            "All possible outcomes of two combined events",
+            "The mean of a data set"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "How many outcomes are there when rolling two six-sided dice?",
+          "options": [
+            "12",
+            "6",
+            "72",
+            "36"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Listing all possible outcomes when choosing 1 item from {red, blue, green} and 1 item from {small, large} gives how many combinations?",
+          "options": [
+            "6",
+            "5",
+            "9",
+            "3"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A sample space diagram can help calculate the probability of combined events.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "When flipping two coins, there are 3 possible outcomes.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Listing outcomes systematically helps avoid missing or repeating possibilities.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "List all possible outcomes when flipping a coin twice.",
+          "acceptedAnswers": [
+            "HH, HT, TH, TT",
+            "HH,HT,TH,TT"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "How many outcomes are possible when choosing a starter (3 options) and a main course (4 options)?",
+          "acceptedAnswers": [
+            "12",
+            "twelve"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Two dice are rolled and their scores added. How many possible totals range from 2 to 12 inclusive?",
+          "acceptedAnswers": [
+            "11",
+            "eleven"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-5-3",
+      "title": "5.3 The AND/OR Rules and Venn Diagrams",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "For mutually exclusive events A and B, P(A or B) = ",
+          "options": [
+            "P(A) × P(B)",
+            "P(A) + P(B)",
+            "P(A) - P(B)",
+            "P(A) ÷ P(B)"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "For independent events A and B, P(A and B) = ",
+          "options": [
+            "P(A) + P(B)",
+            "P(A) - P(B)",
+            "P(A) × P(B)",
+            "P(A) ÷ P(B)"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In a Venn diagram, the intersection of two sets represents:",
+          "options": [
+            "Elements in either set only",
+            "Elements in neither set",
+            "All elements in the universal set",
+            "Elements in both sets"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The probability of rolling a 2 or a 5 on a fair six-sided dice is:",
+          "options": [
+            "1/3",
+            "1/6",
+            "2/3",
+            "1/2"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Mutually exclusive events cannot happen at the same time.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Independent events affect each other's probability of occurring.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "The probabilities of all mutually exclusive outcomes in a sample space sum to 1.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A bag has 5 red, 3 blue, and 2 green balls (10 total). Find the probability of picking red or blue.",
+          "acceptedAnswers": [
+            "4/5",
+            "0.8"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Two independent events have probabilities 0.4 and 0.5. Find the probability that both happen.",
+          "acceptedAnswers": [
+            "0.2",
+            "20%"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "In a class of 30, 12 study French, 10 study Spanish, and 5 study both. How many study French or Spanish (or both)?",
+          "acceptedAnswers": [
+            "17",
+            "seventeen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-5-4",
+      "title": "5.4 Relative Frequency and Experimental Probability",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Relative frequency is calculated as:",
+          "options": [
+            "total number of trials ÷ number of successful trials",
+            "number of successful trials ÷ total number of trials",
+            "number of successful trials × total trials",
+            "number of trials only"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A dice is rolled 50 times and lands on 6 a total of 12 times. What is the relative frequency of rolling a 6?",
+          "options": [
+            "0.12",
+            "0.5",
+            "0.24",
+            "0.06"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "As the number of trials increases, relative frequency generally:",
+          "options": [
+            "Becomes less accurate",
+            "Stays exactly the same every time",
+            "Becomes greater than 1",
+            "Gets closer to the true theoretical probability"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Experimental probability is also known as:",
+          "options": [
+            "Relative frequency",
+            "Theoretical probability",
+            "Expected frequency",
+            "Sample space"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Relative frequency can be used to estimate probability when a fair outcome cannot be assumed (e.g. a biased dice).",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Theoretical probability is always calculated by carrying out an experiment.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "A larger number of trials generally gives a more reliable estimate of probability.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A coin is flipped 40 times and lands on heads 18 times. Find the relative frequency of heads.",
+          "acceptedAnswers": [
+            "0.45",
+            "45%"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A spinner is spun 200 times and lands on red 50 times. Estimate the probability of landing on red.",
+          "acceptedAnswers": [
+            "0.25",
+            "25%"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Using a relative frequency of 0.3 from 20 trials, estimate the expected number of successes in 500 trials.",
+          "acceptedAnswers": [
+            "150",
+            "150 successes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-5-5",
+      "title": "5.5 Tree Diagrams",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Tree diagrams are used to show:",
+          "options": [
+            "Only single events",
+            "The probabilities of combined/successive events",
+            "Data distributions",
+            "Only mutually exclusive events"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "On a tree diagram, to find the probability of a particular path (branch), you:",
+          "options": [
+            "Add the probabilities along the branches",
+            "Subtract the probabilities",
+            "Multiply the probabilities along the branches",
+            "Divide the probabilities"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A bag has a 0.3 probability of red and 0.7 of blue. Two balls are picked with replacement. What is the probability of picking red then blue?",
+          "options": [
+            "0.1",
+            "0.4",
+            "1.0",
+            "0.21"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "On a probability tree diagram, all branches from a single point must sum to:",
+          "options": [
+            "1",
+            "0",
+            "100",
+            "10"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "'With replacement' means the probabilities stay the same for each pick.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "'Without replacement' means the probabilities can change between successive picks.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "To find the probability of two different paths on a tree diagram, you multiply their individual probabilities together.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A spinner has P(win)=0.4. It is spun twice. Find the probability of winning both times.",
+          "acceptedAnswers": [
+            "0.16",
+            "16%"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A bag has 4 red and 6 blue balls (10 total). Two are picked without replacement. Find the probability both are red.",
+          "acceptedAnswers": [
+            "2/15",
+            "0.133"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A coin is flipped twice. Find the probability of getting exactly one head (in either order).",
+          "acceptedAnswers": [
+            "0.5",
+            "1/2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-6-1",
+      "title": "6.1 Collecting Data and Types of Data",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Data that can be counted in whole numbers (e.g. number of pets) is called:",
+          "options": [
+            "Continuous data",
+            "Discrete data",
+            "Qualitative data",
+            "Ordinal data"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Data that can take any value within a range (e.g. height, weight) is called:",
+          "options": [
+            "Discrete data",
+            "Categorical data",
+            "Continuous data",
+            "Nominal data"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A questionnaire question like 'Do you like sport? Yes/No' collects:",
+          "options": [
+            "Continuous data",
+            "Discrete numerical data",
+            "Ranked data",
+            "Qualitative (categorical) data"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which of these is an example of primary data?",
+          "options": [
+            "Data you collect yourself through a survey",
+            "Data taken from a published report",
+            "Data found on a government website",
+            "Historical census data"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A sample should be representative of the population it is taken from.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Continuous data can only take specific, separate values, like shoe sizes.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "Secondary data is data that has already been collected by someone else.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Give an example of discrete data.",
+          "acceptedAnswers": [
+            "number of students",
+            "number of pets",
+            "number of siblings"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Give an example of continuous data.",
+          "acceptedAnswers": [
+            "height",
+            "weight",
+            "time",
+            "temperature"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What term describes a small part of a population selected for a survey?",
+          "acceptedAnswers": [
+            "sample",
+            "a sample"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-6-2",
+      "title": "6.2 Tables, Charts and Bar Charts",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "A frequency table shows:",
+          "options": [
+            "Only the mean of the data",
+            "How often each value or category occurs",
+            "The range of the data",
+            "Only percentages"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In a bar chart, the height of each bar represents:",
+          "options": [
+            "The name of the category",
+            "The total number of categories",
+            "The frequency of that category",
+            "The mode only"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is a key difference between a bar chart and a histogram?",
+          "options": [
+            "Bar charts are only for continuous data",
+            "Histograms cannot show frequency",
+            "There is no difference",
+            "Bar charts have gaps between bars; histograms (for continuous data) do not"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A two-way table is used to show:",
+          "options": [
+            "The relationship between two categorical variables",
+            "Only one variable",
+            "Continuous data trends over time",
+            "Probability trees"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "In a bar chart, bars are typically drawn with equal width and spaced with gaps between them.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A tally chart is a quick way to record data as it is being collected.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A composite (stacked) bar chart can only show one category at a time.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "In a survey, 15 people chose 'tea', 10 chose 'coffee', and 5 chose 'juice'. What is the total number of people surveyed?",
+          "acceptedAnswers": [
+            "30",
+            "thirty"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What type of chart uses tallies grouped in fives to record frequency?",
+          "acceptedAnswers": [
+            "tally chart",
+            "a tally chart"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A two-way table shows data about gender and favourite subject. What is this type of table used to compare?",
+          "acceptedAnswers": [
+            "two categorical variables",
+            "two variables/categories at once"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-6-3",
+      "title": "6.3 Pie Charts",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "A full circle in a pie chart represents:",
+          "options": [
+            "180°",
+            "360°",
+            "100°",
+            "90°"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "To find the angle for a category in a pie chart, you calculate:",
+          "options": [
+            "frequency × 360°",
+            "frequency ÷ 360°",
+            "(frequency ÷ total frequency) × 360°",
+            "(frequency ÷ total) × 100°"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A survey of 60 people shows 15 prefer cats. What angle represents this on a pie chart?",
+          "options": [
+            "60°",
+            "45°",
+            "120°",
+            "90°"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Pie charts are most useful for showing:",
+          "options": [
+            "Proportions of a whole",
+            "Exact frequency values",
+            "Changes over time",
+            "Continuous data ranges"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "All the angles in a pie chart must add up to 360°.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A pie chart can show exact frequency counts directly without any calculation.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "A larger sector in a pie chart represents a larger proportion of the data.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A pie chart shows a sector with an angle of 72°. What fraction of the total does this represent?",
+          "acceptedAnswers": [
+            "1/5",
+            "0.2"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "In a survey of 40 people, 8 chose 'walking' as their favourite exercise. What angle represents this on a pie chart?",
+          "acceptedAnswers": [
+            "72°",
+            "72"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A pie chart sector has an angle of 180°. If the total sample size is 50, how many people does this sector represent?",
+          "acceptedAnswers": [
+            "25",
+            "twenty-five"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-6-4",
+      "title": "6.4 Averages and Range (Mean, Median, Mode)",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The mean of a data set is calculated as:",
+          "options": [
+            "the middle value",
+            "sum of all values ÷ number of values",
+            "the most frequent value",
+            "the highest value minus the lowest"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The median is:",
+          "options": [
+            "The most common value",
+            "The average of all values",
+            "The middle value when data is ordered",
+            "The highest value"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "The mode is:",
+          "options": [
+            "The middle value",
+            "The mean value",
+            "The range of values",
+            "The most frequently occurring value"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Find the range of this data set: 4, 8, 2, 10, 6.",
+          "options": [
+            "8",
+            "10",
+            "2",
+            "6"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "A data set can have more than one mode.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "The range is calculated as the highest value plus the lowest value.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "The median is not affected by extreme outlier values as much as the mean is.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the mean of: 3, 7, 5, 9, 6",
+          "acceptedAnswers": [
+            "6",
+            "six"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the median of: 2, 9, 4, 7, 5",
+          "acceptedAnswers": [
+            "5",
+            "five"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Find the mode of: 3, 5, 5, 7, 8, 5, 2",
+          "acceptedAnswers": [
+            "5",
+            "five"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-6-5",
+      "title": "6.5 Averages from Frequency Tables",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "To estimate the mean from a grouped frequency table, you use:",
+          "options": [
+            "The class width only",
+            "The midpoint of each class multiplied by frequency",
+            "The highest value in each class",
+            "The frequency only"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In a frequency table, the modal class is:",
+          "options": [
+            "The class with the lowest frequency",
+            "The middle class",
+            "The class with the highest frequency",
+            "The first class listed"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A frequency table shows 5 people scored in the range 0-10, and 12 scored in the range 40-50. Estimate the total number of people, if these are the only two classes.",
+          "options": [
+            "5",
+            "12",
+            "7",
+            "17"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Why is the mean from a grouped frequency table called an 'estimate'?",
+          "options": [
+            "Because exact individual data values are unknown, only the class they fall in",
+            "Because grouped data is always inaccurate",
+            "Because frequency tables cannot be used for averages",
+            "Because the mean is always a whole number"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "The midpoint of a class is found by adding the upper and lower boundaries and dividing by 2.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "You can find an exact mean (not an estimate) from grouped, continuous data.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "The modal class in a grouped frequency table is the class with the highest frequency.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A class interval is 10-20. What is its midpoint?",
+          "acceptedAnswers": [
+            "15",
+            "fifteen"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A frequency table has class '20-30' with frequency 8, and midpoint 25. What is the value of frequency × midpoint for this class?",
+          "acceptedAnswers": [
+            "200",
+            "two hundred"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What term describes the total of (frequency × midpoint) divided by the total frequency, used to estimate an average?",
+          "acceptedAnswers": [
+            "estimated mean",
+            "the estimated mean"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-6-6",
+      "title": "6.6 Scatter Graphs and Correlation",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "A scatter graph is used to show:",
+          "options": [
+            "The frequency of a single variable",
+            "The relationship between two sets of data",
+            "Data over time only",
+            "Categorical data only"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "If points on a scatter graph generally rise from left to right, this shows:",
+          "options": [
+            "Negative correlation",
+            "No correlation",
+            "Positive correlation",
+            "Perfect correlation only"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "If points on a scatter graph generally fall from left to right, this shows:",
+          "options": [
+            "Positive correlation",
+            "No correlation",
+            "Zero correlation only",
+            "Negative correlation"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A line of best fit is used to:",
+          "options": [
+            "Show the general trend and help make predictions",
+            "Connect every single data point",
+            "Show the mode of the data",
+            "Replace the need for a scatter graph"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Correlation shows that one variable directly causes changes in the other.",
+          "correct": false
+        },
+        {
+          "type": "true_false",
+          "prompt": "A scatter graph with points randomly spread with no pattern shows no correlation.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "A line of best fit should have roughly equal numbers of points above and below it.",
+          "correct": true
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A scatter graph shows that as temperature increases, ice cream sales increase. What type of correlation is this?",
+          "acceptedAnswers": [
+            "positive correlation",
+            "positive"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "A scatter graph shows that as speed increases, journey time decreases. What type of correlation is this?",
+          "acceptedAnswers": [
+            "negative correlation",
+            "negative"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the term for a data point on a scatter graph that doesn't fit the general trend?",
+          "acceptedAnswers": [
+            "outlier",
+            "an outlier"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths-6-7",
+      "title": "6.7 Time Series Graphs",
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "A time series graph always has which variable on the horizontal axis?",
+          "options": [
+            "Frequency",
+            "Time",
+            "Temperature",
+            "Cost"
+          ],
+          "correct": "B"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Time series graphs are useful for showing:",
+          "options": [
+            "Only a single moment in time",
+            "Categorical comparisons",
+            "Trends and patterns over time",
+            "Probability outcomes"
+          ],
+          "correct": "C"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A repeating pattern in data that occurs at regular time intervals (e.g. every summer) is called:",
+          "options": [
+            "Correlation",
+            "The mode",
+            "An outlier",
+            "Seasonality"
+          ],
+          "correct": "D"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "A moving average is used on a time series graph to:",
+          "options": [
+            "Smooth out short-term fluctuations and show the underlying trend",
+            "Show exact daily values",
+            "Replace the need for a graph",
+            "Calculate the mode"
+          ],
+          "correct": "A"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Time series graphs can be used to make predictions about future trends.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Points on a time series graph are usually joined in the order they occur over time.",
+          "correct": true
+        },
+        {
+          "type": "true_false",
+          "prompt": "Seasonality in a time series refers to random, unpredictable changes in data.",
+          "correct": false
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is plotted on the vertical axis of a time series graph showing monthly sales?",
+          "acceptedAnswers": [
+            "sales",
+            "sales figures"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What term describes the general long-term direction shown by a time series graph (e.g. upward or downward)?",
+          "acceptedAnswers": [
+            "trend",
+            "the trend"
+          ]
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Give one example of a seasonal pattern you might see in a time series of ice cream sales over a year.",
+          "acceptedAnswers": [
+            "higher sales in summer",
+            "sales peak in summer, lower in winter"
+          ]
+        }
+      ]
+    }
+  ]
+}
